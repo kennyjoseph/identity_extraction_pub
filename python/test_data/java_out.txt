@@ -1,0 +1,5917 @@
+32468904269844480
+0	WRB	Where's	
+1	DT	this	
+2	HT	#SnowTO	
+3	IN	at	
+4	.	?	
+5	VBZ	Let's	
+6	VB	see	
+7	WP	what	
+8	PRP	you've	
+9	VBD	got	
+10	HT	#Toronto	
+
+26042601522073600
+0	USR	@ninbroken52	
+1	UH	LoL	
+2	VBZ	Looks	
+3	IN	like	
+4	PRP	I	
+5	VBP	hit	
+6	DT	the	
+7	NN	nail	
+8	CC	n	
+9	DT	the	
+10	NN	head	
+11	IN	with	
+12	DT	that	
+13	CD	one	
+14	.	.	
+15	UH	;-P	
+
+44339417934069760
+0	NNP	David	
+1	NNP	Mitchell's	
+2	NNP	Immersive	
+3	NNP	Reading	
+4	NNP	Room	
+5	,	,	
+6	DT	the	
+7	''	"	
+8	JJ	ultimate	
+9	NN	environment	
+10	''	"	
+11	TO	to	
+12	VB	enjoy	
+13	NNP	Thousand	
+14	NNP	Autumns	
+15	:	:	
+16	URL	http://is.gd/4y40Ht	
+17	IN	/via	
+18	USR	@PD_Smith	
+
+27521714439069696
+0	VB	Shut	
+1	RP	down	
+2	:	......	
+
+29648901808070657
+0	USR	@RealDjKayslay	
+1	UH	lol	
+2	DT	no	
+3	NN	pork	
+4	NN	slime	
+
+37310741828603905
+0	UH	1-4-3	
+1	JJ	happy	
+2	NNP	VaLentines	
+3	NNP	Day	
+4	.	!	
+5	UH	:)	
+6	UH	<3	
+7	URL	http://Zipz.it/Songcardmb	
+
+36677330529161216
+0	UH	Ultra	
+1	VBZ	is	
+2	TO	to	
+3	NN	mutha	
+4	JJ	f'n	
+5	NN	swole	
+6	.	!!!	
+7	HT	#slowjaminthisbih	
+
+51858412669124608
+0	URL	http://bit.ly/er4S9P	
+1	VBG	making	
+2	PRP	it	
+3	JJ	easy	
+4	TO	to	
+5	VB	put	
+6	RP	up	
+7	DT	a	
+8	USR	@wordpress	
+9	,	,	
+10	USR	@joomla	
+11	IN	in	
+12	DT	the	
+13	NN	cloud	
+14	HT	#aws	
+
+51118126217183232
+0	USR	@waveyylifestyle	
+1	JJ	true	
+2	JJ	true	
+3	.	.	
+4	PRP	I'm	
+5	IN	in	
+6	NN	love	
+7	IN	wit	
+8	NN	food	
+9	NN	nigga	
+
+48777033672687616
+0	NN	Blog	
+1	NN	Post	
+2	:	-	
+3	VB	Learn	
+4	WRB	how	
+5	TO	to	
+6	VB	Raise	
+7	JJR	More	
+8	NN	Money	
+9	CC	and	
+10	NNP	Awareness	
+11	IN	through	
+12	JJ	Collaborative	
+13	NN	Partnership	
+14	CD	46	
+15	:	-	
+16	URL	http://ow.ly/4enPp	
+
+41198546862616576
+0	RT	RT	
+1	USR	@MizzTinazz	
+2	:	:	
+3	USR	@iUnique920	
+4	USR	@Mrs_DW	
+5	UH	LMAO	
+6	.	!	
+7	''	"	
+8	IN	If	
+9	PRP	you	
+10	RB	not	
+11	RP	down	
+12	IN	with	
+13	NNP	birdman	
+14	PRP	I	
+15	MD	can't	
+16	VB	fuck	
+17	IN	with	
+18	PRP	you	
+19	RB	musically	
+20	.	!!!	
+21	''	"	
+22	UH	<	
+23	UH	Trueshit	
+
+28139103509815297
+0	PRP	i	
+1	RB	just	
+2	VBD	orgasmed	
+3	IN	over	
+4	DT	this	
+5	URL	http://dreamofgaga.com/2011/01/20/born-this-way-remix-made-by-lady-gaga-herself-is-out/	
+
+39146735418740736
+0	DT	A	
+1	NN	lady	
+2	VBD	asked	
+3	PRP	me	
+4	WP	what	
+5	NN	tribe	
+6	PRP	i	
+7	VBD	was	
+8	IN	from	
+9	.	.	
+10	-LRB-	(	
+11	VB	say	
+12	WP	what	
+13	.	!!	
+14	-RRB-	)	
+15	PRP	She	
+16	VBD	thought	
+17	PRP	i	
+18	VBD	was	
+19	NN	indian	
+20	:	...	
+21	UH	GTFO	
+22	:	...	
+23	UH	smh	
+24	JJ	nice	
+25	NN	try	
+26	,	,	
+27	CC	but	
+28	HT	#sayno	
+
+38420240287277056
+0	RT	RT	
+1	USR	@dddika	
+2	:	:	
+3	RT	RT	
+4	USR	@DamnItsTrue	
+5	:	:	
+6	PRP	I	
+7	VBP	love	
+8	WRB	when	
+9	NNS	teachers	
+10	VBP	get	
+11	IN	off	
+12	NN	topic	
+13	.	.	
+14	HT	#DamnItsTrue	
+
+25688648359874560
+0	NNP	2pac	
+1	VBD	was	
+2	RB	not	
+3	DT	a	
+4	''	"	
+5	NN	rapper	
+6	''	"	
+7	PRP	he	
+8	VBD	was	
+9	RB	so	
+10	RB	much	
+11	RBR	more	
+12	IN	than	
+13	DT	that	
+14	.	.	
+15	PRP	He	
+16	VBD	was	
+17	DT	a	
+18	NN	Revolutionary	
+19	.	.	
+20	DT	A	
+21	JJ	misunderstood-Revolutionary	
+
+23913052789276673
+0	WRB	How	
+1	IN	about	
+2	NNS	girls	
+3	WP	who	
+4	VBP	don't	
+5	VB	know	
+6	WRB	how	
+7	TO	to	
+8	VB	walk	
+9	IN	in	
+10	NNS	heels	
+11	VBP	don't	
+12	VB	walk	
+13	IN	in	
+14	NNS	heels	
+15	HT	#justsaying	
+
+24705092540170242
+0	PRP	I	
+1	VBP	think	
+2	PRP	I'm	
+3	DT	a	
+4	NN	wait	
+5	DT	an	
+6	NN	hour	
+7	CC	or	
+8	CD	2	
+9	CC	&	
+10	RB	THEN	
+11	VB	tweet	
+12	USR	@sinittaofficial	
+13	:	...	
+
+34442513209102337
+0	UH	Ayeee	
+1	VBP	do	
+2	PRP$	ya	
+3	NN	thing	
+4	USR	@normanfame	
+5	USR	@BougieGivenchy	
+6	USR	@reniday4900	
+7	USR	@BOOGE246	
+8	USR	@cutty4900	
+9	USR	@Listenllc	
+10	USR	@reniday	
+11	USR	@remmy188grindtime	
+12	VBG	shootn	
+13	PRP$	my	
+14	NN	movie	
+
+51685120708579328
+0	UH	Dear	
+1	PRP	I	
+2	VBP	think	
+3	PRP	we	
+4	VBP	are	
+5	VBG	facing	
+6	DT	a	
+7	NN	problem	
+8	,	,	
+9	PRP	you	
+10	VBP	act	
+11	IN	like	
+12	PRP	you	
+13	VBP	love	
+14	PRP	me	
+15	DT	no	
+16	NN	longer	
+17	.	.	
+
+56858161289756672
+0	USR	@DJBKnockin	
+1	UH	well	
+2	PRP	I'm	
+3	RB	fuckn	
+4	JJ	amazin	
+5	:	..	
+6	UH	lol	
+7	:	...	
+8	RB	tottaly	
+9	JJ	awsome	
+10	WP	who's	
+11	JJ	bad	
+12	RB	now	
+13	UH	lol	
+
+54574568483991552
+0	USR	@HarrySquad	
+1	WDT	that	
+2	VBZ	is	
+3	DT	the	
+4	JJS	most	
+5	JJ	stunning	
+6	NN	creature	
+7	PRP	I	
+8	VBP	have	
+9	RB	ever	
+10	VBN	seen	
+
+35870581349945344
+0	USR	@EuSouAlexander	
+1	PRP	he	
+2	CD	1	
+3	JJ	shy	
+4	IN	of	
+5	NN	tie	
+6	IN	for	
+7	JJS	most	
+8	CD	3s	
+9	IN	in	
+10	NNP	NBA	
+11	NN	history	
+12	CC	and	
+13	CD	2	
+14	JJ	shy	
+15	IN	of	
+16	VBG	breaking	
+17	PRP	it	
+
+35470855991463936
+0	NNP	strobelights	
+1	NN	dance	
+2	IN	with	
+3	DT	the	
+4	NN	stars	
+5	:	..	
+
+30783817723678720
+0	HT	#TV	
+1	NNP	TV	
+2	NNP	Review	
+3	:	:	
+4	NNP	Charlie	
+5	NNP	Sheen	
+6	VBD	rushed	
+7	TO	to	
+8	NN	hospital	
+9	URL	http://dlvr.it/FF1cl	
+
+46325278565335040
+0	PRP	i	
+1	RB	really	
+2	VBP	hate	
+3	VBG	hearing	
+4	IN	about	
+5	JJ	deadbeat	
+6	NNS	moms	
+7	.	!!!	
+
+22695647643705344
+0	USR	@TieALitleRibbon	
+1	PRP	I	
+2	VBP	think	
+3	PRP	I	
+4	VBP	cut	
+5	IN	like	
+6	,	,	
+7	CD	6-8	
+8	NNS	inches	
+9	.	.	
+10	PRP	It's	
+11	JJ	nice	
+12	,	,	
+13	CC	but	
+14	PRP	I	
+15	VBP	miss	
+16	PRP$	my	
+17	JJ	big	
+18	NN	ponytail	
+19	.	!	
+
+43862127127175168
+0	UH	Mmmmm	
+1	NNS	cranberries	
+2	UH	:)	
+
+26085492428636161
+0	RT	RT	
+1	USR	@TorontoStar	
+2	:	:	
+3	NNP	Berlusconi	
+4	VBN	probed	
+5	IN	over	
+6	NN	cash-for-sex	
+7	NN	case	
+8	:	:	
+9	NNP	Prime	
+10	NNP	Minister	
+11	NNP	Silvio	
+12	NNP	Berlusconi	
+13	VBZ	faces	
+14	NN	investigation	
+15	IN	in	
+16	DT	a	
+17	NN	prostitution	
+18	:	...	
+19	NN	htt	
+20	:	...	
+
+52744593745260544
+0	VBG	Tryna	
+1	VB	go	
+2	TO	to	
+3	IN	at	
+4	JJ	least	
+5	CD	5	
+6	NNS	phillies	
+7	NNS	games	
+8	DT	this	
+9	NN	season	
+
+49931213963665408
+0	NN	Photo	
+1	:	:	
+2	UH	mfw	
+3	DT	the	
+4	NN	SOMEBODY	
+5	VBZ	shows	
+6	RP	up	
+7	DT	a	
+8	NN	day	
+9	RB	early	
+10	TO	to	
+11	PRP$	your	
+12	NN	meeting	
+13	,	,	
+14	VBZ	blames	
+15	PRP	you	
+16	IN	for	
+17	PRP$	his	
+18	NN	scheduling	
+19	NN	error	
+20	,	,	
+21	CC	and	
+22	RB	then	
+23	:	...	
+24	URL	http://tumblr.com/xjz1uajzjh	
+
+49149970200272896
+0	PRP	I	
+1	VBD	liked	
+2	DT	a	
+3	NNP	YouTube	
+4	NN	video	
+5	:	--	
+6	NNP	Xbox	
+7	NNP	Kinect	
+8	VB	FAIL	
+9	.	!!!	
+10	-LRB-	(	
+11	JJ	original	
+12	-RRB-	)	
+13	URL	http://youtu.be/Ux1FZpPKh20?a	
+
+55992381740285953
+0	PRP	I'd	
+1	VB	like	
+2	TO	to	
+3	VB	take	
+4	DT	this	
+5	IN	over	
+6	.	,,	
+7	WP	what	
+8	PRP	I'm	
+9	VBG	tryin	
+10	''	'	
+11	TO	to	
+12	VB	say	
+13	VBZ	is	
+14	PRP	you	
+15	MD	should	
+16	VB	be	
+17	NN	mine	
+18	:	..	
+
+23101069101895681
+0	VBD	Found	
+1	DT	the	
+2	JJS	scarriest	
+3	NN	mystery	
+4	NN	door	
+5	IN	in	
+6	PRP$	my	
+7	NN	school	
+8	.	.	
+9	PRP	I'M	
+10	RB	SO	
+11	JJ	CURIOUS	
+12	UH	D:	
+
+31466289557938177
+0	USR	@itzayanaa_	
+1	UH	okay	
+2	.	?	
+
+50659483248103424
+0	RT	RT	
+1	USR	@xochinadoll	
+2	:	:	
+3	PRP	I	
+4	VBP	feel	
+5	RB	so	
+6	UH	blah	
+7	NN	today	
+8	.	.	
+
+43090433856901120
+0	NN	Nothing	
+1	IN	like	
+2	VBG	doing	
+3	NNS	taxes	
+4	TO	to	
+5	VB	make	
+6	PRP	you	
+7	VBP	feel	
+8	JJ	old	
+9	.	.	
+10	VBP	Think	
+11	PRP	I'll	
+12	VB	play	
+13	DT	some	
+14	NNP	SNES	
+15	TO	to	
+16	VB	make	
+17	RP	up	
+18	IN	for	
+19	PRP	it	
+20	.	.	
+
+50914941863075841
+0	UH	O_O	
+1	JJ	lucky	
+2	PRP	you	
+3	:	....	
+4	NN	llabd	
+5	UH	wutup	
+6	UH	doe	
+7	.	?!	
+8	VB	Shine	
+9	.	!	
+10	RT	RT	
+11	USR	@Queen_Shine	
+12	:	:	
+13	USR	@11wdNICK	
+14	UH	*	
+15	UH	yawns	
+16	UH	*	
+17	RB	Still	
+18	IN	in	
+19	DT	the	
+20	NN	bed	
+21	UH	:)	
+
+32978214561251329
+0	NNP	Twitter	
+1	VBZ	does	
+2	VB	make	
+3	DT	a	
+4	IN	@	
+5	NN	button	
+6	RB	right	
+7	:	...	
+8	UH	o	
+9	RB	just	
+10	VBG	making	
+11	JJ	sure	
+
+34145237873983488
+0	VB	Watch	
+1	DT	the	
+2	NN	story	
+3	NN	unfold	
+4	IN	about	
+5	NN	view	
+6	JJR	larger	
+7	NN	map	
+8	URL	http://safe.mn/2qQm	
+
+27221909720530944
+0	USR	@justinbieber	
+1	JJ	good	
+2	NN	night	
+3	UH	<3	
+4	PRP	I	
+5	VBP	Love	
+6	PRP	You	
+7	UH	:)	
+
+32189630715535361
+0	USR	@X_SarahHumes_X	
+1	USR	@KamilaMerrygold	
+2	NNP	Jesus	
+3	VBP	are	
+4	PRP	you	
+5	CD	two	
+6	RB	still	
+7	IN	at	
+8	PRP	it	
+9	.	?	
+10	UH	Lolx	
+
+47358377516470272
+0	NNP	Fainlly	
+1	NNP	KFC	
+2	NN	dinner	
+3	VBZ	is	
+4	RB	here	
+5	UH	♥	
+6	.	.	
+
+42441176606982144
+0	PRP	thers	
+1	RB	still	
+2	IN	like	
+3	CD	1	
+4	CD	1/2	
+5	NNS	hours	
+6	IN	till	
+7	NNP	Biebs	
+8	NN	bday	
+9	RB	here	
+10	UH	:P	
+
+55460195878440960
+0	NNP	Twitter	
+1	RP	off#	
+
+48520249947078656
+0	NNP	Payroll	
+1	NNP	tax	
+2	DT	a	
+3	NN	point	
+4	IN	of	
+5	NN	contention	
+6	IN	for	
+7	NNP	San	
+8	NNP	Francisco	
+9	NNS	startups	
+10	:	-	
+11	URL	http://bit.ly/fIvZP9	
+
+28689844909645826
+0	USR	@SiaoOne	
+1	PRP	it	
+2	VBZ	is	
+3	NNP	Google	
+4	NN	maps	
+5	,	,	
+6	CC	but	
+7	PRP	I	
+8	VBP	don't	
+9	VB	think	
+10	PRP	it	
+11	VBD	was	
+12	DT	a	
+13	NN	prank	
+14	,	,	
+15	PRP	it's	
+16	RB	just	
+17	DT	the	
+18	JJ	normal	
+19	NN	kind	
+20	IN	of	
+21	NN	thing	
+22	IN	that	
+23	VBZ	happens	
+24	IN	in	
+25	NNP	Germany	
+
+57134427708465152
+0	USR	@ViRiDiS68	
+1	UH	ha	
+2	.	!	
+3	PRP	I'm	
+4	VBG	gonna	
+5	VB	go	
+6	IN	with	
+7	UH	yes	
+
+47858740929630209
+0	NNP	Romeo	
+1	JJ	lame	
+2	JJ	sexy	
+3	NN	ass	
+4	IN	on	
+5	DT	the	
+6	NNP	monique	
+7	NN	show	
+
+21605694587281408
+0	RT	RT	
+1	USR	@TheBlissfulChef	
+2	:	:	
+3	RB	Just	
+4	VBD	heard	
+5	NNS	vegetables	
+6	MD	will	
+7	VB	be	
+8	DT	the	
+9	JJ	new	
+10	NN	meat	
+11	IN	in	
+12	CD	2011	
+13	.	.	
+14	UH	Woot	
+15	UH	Woot	
+16	.	!	
+
+26484236454199296
+0	JJ	Bad	
+1	NN	loss	
+2	IN	for	
+3	DT	the	
+4	NNP	Bison	
+5	NN	men	
+6	NN	tonight	
+7	IN	at	
+8	NNP	Western	
+9	NNP	Illinois	
+10	,	,	
+11	IN	against	
+12	DT	a	
+13	NN	team	
+14	WDT	that	
+15	VBD	got	
+16	VBN	blown	
+17	RP	out	
+18	IN	by	
+19	NNP	SDSU	
+20	IN	on	
+21	NNP	Thursday	
+22	CC	and	
+23	VBD	was	
+24	CD	1-5	
+25	IN	in	
+26	DT	the	
+27	NNP	Summit	
+28	.	.	
+
+43341785887543296
+0	PRP	It	
+1	RB	kinda	
+2	VBZ	feels	
+3	IN	like	
+4	DT	a	
+5	NN	junk	
+6	NN	food	
+7	RB	kinda	
+8	NN	day	
+9	.	.	
+10	JJ	Good	
+11	NN	thing	
+12	PRP	I	
+13	VBP	am	
+14	VBG	planning	
+15	DT	some	
+16	NN	time	
+17	IN	with	
+18	PRP$	my	
+19	NN	friend	
+20	,	,	
+21	NNP	Jillian	
+22	NNP	Michaels	
+23	,	,	
+24	NN	tonight	
+
+43619323041951744
+0	NNP	David	
+1	NNP	Quinn	
+2	VBZ	strikes	
+3	DT	a	
+4	NN	blow	
+5	IN	for	
+6	JJ	new	
+7	''	'	
+8	NN	anti-establishment	
+9	''	'	
+10	IN	cause	
+11	.	.	
+12	VBZ	Is	
+13	JJ	traditional	
+14	NN	conservatism	
+15	RB	really	
+16	DT	the	
+17	JJ	new	
+18	NN	radicalism	
+19	.	?	
+20	URL	http://bit.ly/hxrm7L	
+
+54982162386141184
+0	RT	RT	
+1	USR	@ajparrot	
+2	:	:	
+3	PRP	you	
+4	VBP	dont	
+5	VB	know	
+6	NN	shit	
+7	,	,	
+8	IN	about	
+9	NN	shit	
+
+53954155374592000
+0	NNP	Gabe	
+1	:	:	
+2	''	"	
+3	PRP	You	
+4	VBP	want	
+5	TO	to	
+6	VB	buy	
+7	NNS	shoes	
+8	.	?	
+9	PRP	You	
+10	VBP	have	
+11	CD	18	
+12	NNS	minutes	
+13	VBD	left	
+14	IN	before	
+15	PRP$	your	
+16	NN	appointment	
+17	.	.	
+18	''	"	
+19	HT	#ChallengeAccepted	
+20	HT	#MissionImpossibleTheme	
+21	HT	#DoABarrelRoll	
+
+37935252550860800
+0	RT	RT	
+1	USR	@lemonjoose	
+2	:	:	
+3	CD	£100	
+4	NN	Voucher	
+5	IN	of	
+6	PRP$	your	
+7	NN	choice	
+8	VBZ	is	
+9	RP	up	
+10	IN	for	
+11	NNS	grabs	
+12	,	,	
+13	RB	just	
+14	RT	RT	
+15	CC	and	
+16	VB	follow	
+17	.	!	
+18	HT	#win	
+19	HT	#competition	
+20	HT	#lemonjoose	
+
+45171047892402176
+0	USR	@syabillaedward	
+1	RB	honestly	
+2	.	?	
+3	PRP	I	
+4	VBP	have	
+5	DT	no	
+6	NN	idea	
+7	.	.	
+8	PRP	I	
+9	RB	just	
+10	VBP	am	
+11	:	...	
+12	DT	all	
+13	.	.	
+14	DT	the	
+15	.	.	
+16	NN	time	
+17	.	.	
+18	UH	:(	
+
+40914055732396032
+0	USR	@Tiff3rz	
+1	UH	smfh	
+2	DT	that's	
+3	RB	fucking	
+4	JJ	crazy	
+
+40142400189898752
+0	USR	@d_daniels	
+1	:	:	
+2	IN	If	
+3	DT	a	
+4	NN	player	
+5	VBZ	wins	
+6	PRP$	his	
+7	JJ	first	
+8	NN	match	
+9	,	,	
+10	RB	then	
+11	VBZ	loses	
+12	IN	in	
+13	DT	the	
+14	JJ	second	
+15	NN	round	
+16	IN	that's	
+17	DT	a	
+18	NN	t-17	
+19	,	,	
+20	RB	technically	
+21	.	.	
+22	VBZ	Does	
+23	DT	that	
+24	NN	count	
+25	IN	as	
+26	JJ	top-25	
+27	.	?	
+
+42131393744076800
+0	IN	if	
+1	USR	@DoobieClothing	
+2	VB	dont	
+3	VB	make	
+4	DT	some	
+5	NNS	hoodies	
+6	RB	soon	
+7	:	...	
+8	PRP	imma	
+9	VB	beat	
+10	PRP	em	
+11	.	!	
+
+36246374219522048
+0	HT	#NSN3D	
+1	NN	sorrryyz	
+2	PRP	i	
+3	VBD	got	
+4	VBN	caught	
+5	IN	for	
+6	NN	textinnggg	
+7	.	.	
+8	NN	dudeee	
+9	.	.	
+10	PRP	it	
+11	VBD	was	
+12	DT	the	
+13	JJS	most	
+14	JJ	awkward	
+15	NN	thing	
+16	RB	ever	
+17	.	!	
+18	PRP	I	
+19	VBP	SEE	
+20	PRP	YOU	
+21	RP	DOWN	
+22	RB	THER	
+23	.	!	
+
+41852812245598208
+0	USR	@SarahLizHall	
+1	UH	ah	
+2	DT	that's	
+3	NNP	Ace	
+4	NN	man	
+5	,	,	
+6	PRP	you'll	
+7	VBP	have	
+8	TO	to	
+9	VB	stick	
+10	RP	around	
+11	IN	after	
+12	PRP	you	
+13	VBP	play	
+14	VB	live	
+15	USR	@leeds	
+16	,	,	
+17	VBG	gonna	
+18	VB	be	
+19	JJ	such	
+20	DT	a	
+21	JJ	good	
+22	NN	night	
+23	UH	:	
+24	UH	)	
+
+30004520004100097
+0	RT	RT	
+1	USR	@justinbieber	
+2	:	:	
+3	RB	now	
+4	NNP	Hailee	
+5	VB	get	
+6	DT	a	
+7	NN	twitter	
+
+49559011401531392
+0	NNP	SHM	
+1	:	..	
+2	UH	brb	
+
+30656193286377472
+0	''	"	
+1	PRP	You	
+2	VBP	aint	
+3	VBD	got	
+4	NN	none	
+5	.	?	
+6	''	"	
+7	JJ	First	
+8	,	,	
+9	VBP	aint	
+10	VBZ	is	
+11	RB	not	
+12	DT	a	
+13	NN	word	
+14	IN	if	
+15	PRP	you	
+16	VBP	are	
+17	VBG	referring	
+18	TO	to	
+19	VBG	asking	
+20	PRP	me	
+21	IN	if	
+22	PRP	I	
+23	VBD	didn't	
+24	VB	have	
+25	DT	an	
+26	NN	appointment	
+27	IN	then	
+28	DT	the	
+29	NN	answer	
+30	VBZ	is	
+31	DT	no	
+32	.	.	
+
+23790436220936192
+0	NNP	Bridalplasty	
+1	.	!	
+2	VB	Love	
+3	DT	this	
+4	NN	showww	
+5	.	.	
+
+25244937167568896
+0	VB	ADD	
+1	PRP	ME	
+2	IN	ON	
+3	NNP	FACEBOOK	
+4	:	((	
+5	URL	http://www.facebook.com/DJBolt1	
+6	-RRB-	))	
+7	CD	x2	
+
+46710751762718720
+0	RT	RT	
+1	USR	@mufcfans	
+2	:	:	
+3	NNP	Manchester	
+4	NNP	United	
+5	NNP	v	
+6	NNP	Arsenal	
+7	NN	player	
+8	NNS	ratings	
+9	:	|	
+10	NNP	Daniel	
+11	NNP	Taylor	
+12	URL	http://bit.ly/h1XIyQ	
+
+33560509831712768
+0	USR	@BinkyJ45	
+1	NNP	NASCAR	
+2	NNP	Raceday	
+3	:	-	
+4	NNP	Bud	
+5	NNP	Shootout	
+6	,	,	
+7	NNP	Saturday	
+8	,	,	
+9	NNP	Feb	
+10	.	.	
+11	CD	12th	
+12	IN	at	
+13	CD	6:30	
+14	NNP	p	
+15	NNP	ET	
+16	IN	on	
+17	NN	SPEED	
+18	.	!	
+19	HT	#nascar	
+20	HT	#cup	
+21	USR	@DISupdates	
+
+40428431036383232
+0	USR	@KUTV2News	
+1	VBZ	is	
+2	VBG	giving	
+3	RB	away	
+4	TO	2	
+5	CD	$250	
+6	NNP	Grocery	
+7	NNP	Gift	
+8	NNP	Cards	
+9	TO	to	
+10	NNP	Associated	
+11	NNP	Foods	
+12	.	.	
+13	NNP	Winner	
+14	VBN	announced	
+15	NNP	Wed	
+16	IN	on	
+17	NNP	2News	
+18	IN	at	
+19	CD	10	
+20	.	!	
+21	URL	http://on.fb.me/h8uFzD	
+
+57394302548049925
+0	NN	answer	
+1	:	:	
+2	VBG	spouting	
+3	,	,	
+4	USR	@tunjung	
+5	CD	8/388	
+6	NNS	points	
+7	,	,	
+8	NN	meaning	
+9	:	:	
+10	URL	http://goo.gl/XzlsV	
+
+58878154806267904
+0	RT	RT	
+1	USR	@GreatestQuotes	
+2	:	:	
+3	''	"	
+4	VB	Do	
+5	WP	what	
+6	PRP	you	
+7	MD	can	
+8	,	,	
+9	IN	with	
+10	WP	what	
+11	PRP	you	
+12	VBP	have	
+13	,	,	
+14	WRB	where	
+15	PRP	you	
+16	VBP	are	
+17	.	.	
+18	''	"	
+19	:	-	
+20	NNP	Theodore	
+21	NNP	Roosevelt	
+
+76505732501086208
+0	USR	@_punkybrewster	
+1	UH	yea	
+2	UH	ik	
+3	,	,	
+4	RB	just	
+5	IN	for	
+6	PRP	me	
+7	UH	hahaa	
+
+77568652588761089
+0	USR	@Virg1877	
+1	PRP	I'M	
+2	IN	on	
+3	JJ	east	
+4	NN	coast	
+5	CC	and	
+6	PRP$	their	
+7	IN	on	
+8	.	.	
+9	VBP	don't	
+10	VB	know	
+11	WRB	how	
+12	DT	that	
+13	VBZ	works	
+14	VB	live	
+15	IN	in	
+16	NNP	CA	
+17	.	.?	
+18	NNP	WITWIAL	
+
+88048499026968577
+0	USR	@AngieMaskeBerka	
+1	NNP	NBC	
+2	VBZ	is	
+3	VBG	going	
+4	TO	to	
+5	VB	have	
+6	DT	the	
+7	NNP	NYC	
+8	NNS	fireworks	
+9	IN	on	
+10	.	.	
+11	PRP	They	
+12	VBP	are	
+13	JJ	amazing-at	
+14	RB	least	
+15	IN	in	
+16	NN	person	
+17	PRP	they	
+18	VBD	were	
+19	CD	two	
+20	NNS	years	
+21	RB	ago	
+22	.	.	
+
+84959180389224448
+0	JJ	TRUE	
+1	NN	BLOOD	
+2	NN	tonight	
+3	:	...	
+4	RB	still	
+5	RB	not	
+6	JJ	sure	
+7	PRP	I	
+8	VBP	am	
+9	VBG	gonna	
+10	VB	like	
+11	DT	the	
+12	JJ	new	
+13	NNP	XANADU	
+14	NN	style	
+15	NN	storyline	
+16	PRP	they	
+17	VBP	are	
+18	VBG	getting	
+19	IN	into	
+20	:	...	
+21	URL	http://bit.ly/iXSxin	
+
+75914859476303872
+0	USR	@TFP_103	
+1	USR	@losoo5150	
+2	NN	nigga	
+3	PRP	u	
+4	VBP	quit	
+5	TO	to	
+
+79369892704436226
+0	:	;	
+1	UH	idk	
+2	WRB	why	
+3	:	...	
+4	CC	but	
+5	PRP	ifeel	
+6	IN	like	
+7	VBG	talkin	
+8	JJ	dirty	
+9	UH	O_o	
+
+60353551767060481
+0	USR	@TheDjReFlex	
+1	IN	if	
+2	PRP	u	
+3	MD	can't	
+4	VB	beat	
+5	PRP	em	
+6	VB	join	
+7	PRP	em	
+8	.	.	
+9	UH	Lol	
+
+82142126401519617
+0	USR	@Ollierussian	
+1	PRP	I	
+2	VBD	had	
+3	JJ	potted	
+4	NN	shrimp	
+5	JJ	last	
+6	NN	night	
+7	.	.	
+8	IN	Except	
+9	NN	someone	
+10	RB	else	
+11	VBD	ordered	
+12	PRP	it	
+13	CC	&	
+14	PRP	I	
+15	VBP	couldn't	
+16	VB	work	
+17	RP	out	
+18	WRB	why	
+19	PRP	we	
+20	VBD	had	
+21	NN	creme	
+22	NN	brulee	
+23	IN	for	
+24	DT	a	
+25	NN	starter	
+26	:	...	
+
+89721359562838016
+0	USR	@malamucha22	
+1	USR	@MsLockallhearts	
+2	PRP	they	
+3	VBD	had	
+4	PRP$	their	
+5	NN	fun	
+6	,	,	
+7	PRP	we	
+8	VBP	hd	
+9	PRP	ours	
+10	.	!	
+11	UH	;)	
+12	UH	lmaooo	
+
+72683391883018240
+0	NNP	TCA	
+1	TO	to	
+2	VB	play	
+3	IN	for	
+4	NNP	Colorado	
+5	NNP	3A	
+6	NNP	women's	
+7	NN	soccer	
+8	NN	championship	
+9	.	.	
+10	HT	#charterschool	
+11	HT	#tca	
+12	HT	#soccer	
+
+66323384262340608
+0	PRP	I	
+1	VBP	don't	
+2	VB	mean	
+3	TO	to	
+4	VB	stay	
+5	JJ	awake	
+6	IN	at	
+7	DT	this	
+8	NN	hour	
+9	.	.	
+10	CC	But	
+11	DT	that	
+12	VBZ	is	
+13	WP	what	
+14	DT	the	
+15	JJS	poorest	
+16	IN	of	
+17	DT	all	
+18	NN	network	
+19	MD	would	
+20	VB	do	
+21	PRP	you	
+22	WRB	when	
+23	PRP	you	
+24	VBP	try	
+25	TO	to	
+26	VB	download	
+27	.	!	
+
+73549289246306304
+0	JJ	Happy	
+1	NNS	Guys	
+2	VBP	Finish	
+3	JJ	Last	
+4	:	-	
+5	URL	EmpowHER.com	
+6	URL	http://t.co/orgxm33	
+7	HT	vía	
+8	USR	@empowher	
+
+79213742906290176
+0	USR	@updateconf	
+1	PRP	I	
+2	VBP	think	
+3	PRP	I	
+4	VBD	thought	
+5	DT	a	
+6	NN	ticket	
+7	DT	the	
+8	JJ	other	
+9	NN	day	
+10	:	-	
+11	NNP	PayPal	
+12	VBZ	says	
+13	UH	Yes	
+14	,	,	
+15	NNP	Eventbrite's	
+16	RB	never	
+17	VBN	heard	
+18	IN	of	
+19	PRP	me	
+20	.	.	
+21	MD	Can	
+22	PRP	you	
+23	VBP	confirm	
+24	NN	success/fail	
+25	NN	status	
+26	.	?	
+
+92629488579526656
+0	RT	RT	
+1	USR	@SnackzBITCH	
+2	:	:	
+3	VB	Eat	
+4	DT	that	
+5	NN	pussc	
+6	IN	like	
+7	JJ	cold	
+8	NN	pizza	
+9	UH	lol	
+
+66221114522738689
+0	HT	#NowPlaying	
+1	VB	Get	
+2	DT	Another	
+3	NN	Boyfriend	
+4	IN	of	
+5	USR	@backstreetboys	
+
+67753209799770114
+0	UH	Whooaaaa	
+1	UH	bro	
+2	DT	these	
+3	NNP	CELTICS	
+4	VBP	are	
+5	NNP	god	
+6	JJ	dammmm	
+7	NNS	babies	
+8	.	!!!	
+9	NN	MAN	
+10	RP	UP	
+
+58666191618719744
+0	USR	@tacobell	
+1	RB	Reportedly	
+2	VBG	Testing	
+3	DT	All-Dorito	
+4	NNP	Taco	
+5	NNP	Shell	
+6	URL	http://www.geekosystem.com/tacobell-dorito-taco/	
+
+85878395765915651
+0	USR	@SabrinagLeek	
+1	UH	haha	
+2	PRP	u	
+3	VBP	wish	
+4	.	!	
+5	RB	Just	
+6	VB	wait	
+7	IN	for	
+8	PRP	me	
+9	TO	to	
+10	VB	fins	
+11	DT	a	
+12	JJ	cool	
+13	NN	name	
+14	WDT	tht	
+15	VBZ	has	
+16	NNP	darren	
+17	:	+	
+18	NNP	loewe	
+19	IN	in	
+20	PRP	it	
+21	UH	lol	
+22	-LRB-	(	
+23	NN	everything	
+24	VBZ	sounds	
+25	JJ	bad	
+26	UH	:(	
+27	-RRB-	)	
+
+61812586458529792
+0	RT	RT	
+1	USR	@alisha_bieber96	
+2	:	:	
+3	HT	#nsnweekend	
+4	WRB	how	
+5	MD	can	
+6	NNS	people	
+7	VBP	choose	
+8	RB	there	
+9	JJ	favourite	
+10	NN	performance	
+11	,	,	
+12	DT	the	
+13	JJ	whole	
+14	NN	thing	
+15	VBD	was	
+16	JJ	perfect	
+17	.	!	
+
+92356624110469120
+0	UH	Wow	
+1	VB	stuck	
+2	PRP$	my	
+3	NN	hand	
+4	IN	in	
+5	PRP$	his	
+6	NN	cage	
+7	CC	and	
+8	PRP	he	
+9	VBD	ran	
+10	CC	and	
+11	VBD	hid	
+12	IN	in	
+13	PRP$	his	
+14	NNS	tubes	
+15	UH	/:	
+
+63791085822025729
+0	USR	@amy_inVA	
+1	PRP	He	
+2	JJR	better	
+3	.	!!	
+4	PRP	We	
+5	VBP	buy	
+6	PRP$	his	
+7	NN	stuff	
+8	.	!	
+9	UH	haha	
+
+63322795802763265
+0	PRP	I	
+1	VBP	call	
+2	PRP$	my	
+3	NN	dad	
+4	CC	and	
+5	DT	this	
+6	NN	dude	
+7	VBZ	is	
+8	VBG	blasting	
+9	NN	music	
+10	.	.	
+11	PRP	I	
+12	MD	cant	
+13	VB	understand	
+14	PRP	him	
+15	CC	and	
+16	PRP	he	
+17	VBZ	keeps	
+18	VBG	saying	
+19	''	"	
+20	WP	what	
+21	.	?	
+22	''	"	
+23	.	.	
+24	VB	Doesn't	
+25	DT	that	
+26	VB	mean	
+27	VB	turn	
+28	RP	down	
+29	DT	the	
+30	NN	music	
+31	.	?	
+32	UH	=_=	
+
+90164034753667072
+0	RB	just	
+1	VBD	did	
+2	DT	some	
+3	VBZ	unfollows	
+4	:	..	
+5	PRP	I	
+6	VBP	hate	
+7	VBG	havin	
+8	HT	#deadweight	
+9	IN	on	
+10	PRP$	my	
+11	NN	TL	
+
+78965478139236352
+0	JJ	Ambitious	
+1	JJ	young	
+2	NNS	Italians	
+3	VBP	are	
+4	VBG	quitting	
+5	PRP$	their	
+6	NN	country	
+7	IN	in	
+8	NNS	droves	
+9	,	,	
+10	VBG	leaving	
+11	NN	power	
+12	IN	in	
+13	DT	the	
+14	NNS	hands	
+15	IN	of	
+16	DT	an	
+17	JJ	elderly	
+18	NN	elite	
+19	.	.	
+20	URL	http://t.co/6idomWv	
+21	HT	#tsunami	
+
+85815107732520961
+0	DT	A	
+1	NN	woman	
+2	WDT	dat	
+3	VBZ	wants	
+4	PRP	me	
+5	VBP	fa	
+6	PRP	me	
+7	:	....	
+8	NNS	dats	
+9	DT	all	
+10	PRP	I	
+11	VBP	ask	
+12	IN	for	
+13	.	.	
+
+83894980439052288
+0	VBZ	enjoys	
+1	DT	a	
+2	JJ	good	
+3	NN	Snog	
+4	IN	at	
+5	NN	lunchtime	
+6	.	.	
+
+81737984285749249
+0	JJ	Excellent	
+1	NN	article	
+2	IN	about	
+3	JJ	Intelligent	
+4	NN	Management	
+5	NN	founder	
+6	NNP	Lepore	
+7	VBD	inspired	
+8	IN	by	
+9	NNP	Jewish	
+10	NN	philosophy	
+11	TO	to	
+12	VB	find	
+13	NN	business	
+14	NNS	solutions	
+15	URL	http://bit.ly/kxbW2Q	
+
+70832126932688896
+0	UH	Noo	
+1	PRP	its	
+2	RB	not	
+3	VB	cuss	
+4	PRP	you	
+5	VBP	have	
+6	NN	swag	
+7	CC	andd	
+8	PRP	you	
+9	VBP	wont	
+10	VB	look	
+11	JJ	dumb	
+12	.	!	
+13	USR	@youloveants	
+14	.	!!	
+
+69455921188839424
+0	NN	Sport	
+1	VBG	Scouting	
+2	DT	the	
+3	NNP	Bruins-Lightning	
+4	NNP	East	
+5	NNS	finals	
+6	NN	duel	
+7	DT	The	
+8	NN	Lightning	
+9	CC	and	
+10	NNP	Bruins	
+11	VBP	have	
+12	DT	a	
+13	NN	lot	
+14	IN	in	
+15	JJ	common	
+16	:	--	
+17	VBG	including	
+18	CD	two	
+19	JJ	red-	
+20	URL	http://tiny.ly/ev0u	
+
+68254865498976256
+0	VBG	Washing	
+1	PRP$	my	
+2	NN	motorcycle	
+
+83647843818160128
+0	USR	@StephenRooney	
+1	RB	Not	
+2	IN	as	
+3	JJ	bent	
+4	IN	as	
+5	PRP$	my	
+6	NN	finger	
+7	.	!	
+8	PRP	It	
+9	VBZ	looks	
+10	JJ	freaky	
+11	.	!	
+
+74596036592664577
+0	VBD	Had	
+1	NNP	Fun	
+2	,	,	
+3	RB	Now	
+4	PRP	I'm	
+5	NNP	Omw	
+6	TO	To	
+7	PRP$	My	
+8	NN	Gma	
+9	NN	House	
+10	IN	For	
+11	PRP$	Her	
+12	NN	Birthday	
+
+70353057795416064
+0	USR	@ThreeeStacks	
+1	USR	@lildick_e	
+2	UH	Woooooooow	
+
+78501923518554112
+0	CD	1	
+1	,	,	
+2	CD	2	
+3	,	,	
+4	CD	3	
+5	,	,	
+6	CD	4	
+7	,	,	
+8	CD	5	
+9	NNP	Teen	
+10	NNP	Titans	
+11	.	!	
+
+77088128208338944
+0	USR	@YMMoss	
+1	NNP	china	
+
+62412451722964992
+0	NNP	Lorex	
+1	NNP	LW2003	
+2	VB	LIVE	
+3	VB	snap	
+4	NN	Video	
+5	NN	Baby	
+6	NN	Monitor	
+7	-LRB-	(	
+8	NNP	White	
+9	:	):	
+10	VB	Get	
+11	DT	The	
+12	JJ	Lowest	
+13	NNS	Prices	
+14	IN	On	
+15	NNP	NEW	
+16	NNP	Lorex	
+17	NNP	LW2003	
+18	VB	LIVE	
+19	VB	snap	
+20	NN	Video	
+21	NNP	Bab	
+22	:	...	
+23	URL	http://bit.ly/dRjonS	
+
+90896205177036800
+0	PRP$	My	
+1	NN	friends	
+2	NN	category	
+3	VBZ	is	
+4	JJ	odd	
+5	RB	again	
+6	UH	-.-	
+
+81421997929795585
+0	RT	RT	
+1	USR	@Martez_Faith	
+2	:	:	
+3	WRB	when	
+4	IN	in	
+5	DT	a	
+6	NN	relationship	
+7	PRP	You	
+8	VBP	need	
+9	TO	to	
+10	VB	understand	
+11	DT	the	
+12	JJ	other	person NN|people_rule
+13	NN	person	people_rule
+14	NNS	feelings	
+15	IN	besides	
+16	PRP$	yours	
+17	.	.	
+
+87752746064818176
+0	USR	@TmoNSays	
+1	IN	of	
+2	NN	course	
+3	PRP	she	
+4	VBZ	is	
+5	UH	lol	
+
+84473089739587584
+0	USR	@chamberlainwill	
+1	NNS	Thanks	
+2	IN	for	
+3	DT	the	
+4	HT	#FF	
+5	.	!	
+
+77509110769262592
+0	UH	Oo	
+1	UH	yeaa	
+2	PRP	ii	
+3	VB	hear	
+4	NN	thunda	
+5	.	!	
+6	NNP	Rainnn	
+7	NNP	kum	
+8	RP	onnnnnn	
+
+71938097843150848
+0	VBP	Know	
+1	DT	the	
+2	NNS	Professionals	
+3	,	,	
+4	NNP	Information	
+5	CC	and	
+6	NNS	facts	
+7	IN	on	
+8	NNP	Cosmetic	
+9	NNP	Dentist	
+10	NNS	Procedures	
+11	CC	and	
+12	NNS	Treatments	
+13	:	:	
+14	NN	Anybody	
+15	JJ	unfamiliar	
+16	:	...	
+17	URL	http://bit.ly/mEeohe	
+
+83081188935348224
+0	PRP	I	
+1	VBD	made	
+2	CD	$300	
+3	.	.	
+4	DT	That	
+5	VBZ	is	
+6	IN	on	
+7	JJ	top	
+8	IN	of	
+9	DT	the	
+10	CD	$550	
+11	PRP	I've	
+12	VBD	made	
+13	RB	earlier	
+14	IN	on	
+15	DT	this	
+16	NN	trip	
+17	.	.	
+18	RB	Not	
+19	JJ	bad	
+20	IN	if	
+21	PRP	I	
+22	VBP	do	
+23	VB	say	
+24	RB	so	
+25	PRP	myself	
+26	.	.	
+
+73912352650706944
+0	PRP	I	
+1	VBP	don't	
+2	VB	want	
+3	DT	any	
+4	IN	of	
+5	DT	these	
+6	NNS	people	
+7	IN	in	
+8	PRP$	my	
+9	NN	house	
+10	RB	right	
+11	RB	now	
+12	,	,	
+13	VB	don't	
+14	VB	have	
+15	NN	anything	
+16	TO	to	
+17	VB	talk	
+18	IN	about	
+19	,	,	
+20	VBG	going	
+21	TO	to	
+22	NN	bed	
+
+60687632111374336
+0	RT	RT	
+1	USR	@JosetteSheeran	
+2	:	:	
+3	USR	@WFP	
+4	HT	#Libya	
+5	NN	breakthru	
+6	.	!	
+7	PRP	We	
+8	VBP	move	
+9	RB	urgently	
+10	VBN	needed	
+11	HT	#food	
+12	-LRB-	(	
+13	NN	wheat	
+14	,	,	
+15	NN	flour	
+16	-RRB-	)	
+17	IN	by	
+18	NN	truck	
+19	NN	convoy	
+20	IN	into	
+21	JJ	western	
+22	NNP	Libya	
+23	IN	for	
+24	CD	1st	
+25	NN	time	
+26	:	...	
+
+65450293604777984
+0	.	.	
+1	USR	@OFH_John	
+2	CC	&	
+3	PRP	I	
+4	VBP	are	
+5	VBG	talking	
+6	IN	about	
+7	NNS	optics	
+8	NN	entrepreneurship	
+9	CC	&	
+10	''	"	
+11	DT	the	
+12	NN	Actuality	
+13	NN	story	
+14	''	"	
+15	NN	tonight	
+16	NNP	Media	
+17	NNP	Lab	
+18	NNP	E14-525	
+19	CD	6p-8p	
+20	IN	for	
+21	URL	http://bit.ly/mNwM28	
+
+59937891853414400
+0	USR	@itsjackc	
+1	PRP	i	
+2	IN	from	
+3	IN	in	
+4	NNP	italy	
+5	.	!!!!!	
+6	CC	and	
+7	PRP	you	
+8	.	???	
+
+78210964671045632
+0	PRP	I	
+1	VBP	think	
+2	PRP	I	
+3	VBP	do	
+4	NNP	+_O	
+5	''	"	
+6	PRP	you're	
+7	JJ	sick	
+8	''	"	
+9	RT	RT	
+10	USR	@Mannando	
+11	:	:	
+12	UH	Lmao	
+13	PRP	u	
+14	VBP	don	
+15	RB	even	
+16	VB	know	
+17	WP	what	
+18	DT	that	
+19	VBZ	means	
+20	RT	RT	
+21	USR	@M_teeDaQuEEn	
+22	:	:	
+23	UH	Lol	
+24	UH	nawe	
+25	UH	lol	
+26	RT	RT	
+
+80312218624851968
+0	PRP	I	
+1	VBP	think	
+2	NN	jawn	
+3	VBD	was	
+4	VBG	tryna	
+5	VB	be	
+6	RB	smart	
+7	JJ	talk'n	
+8	IN	bout	
+9	DT	da	
+10	NN	baul	
+11	JJ	little	
+12	VBP	do	
+13	PRP	she	
+14	VBP	know	
+15	PRP	I	
+16	VBP	dnt	
+17	VB	give	
+18	CD	two	
+19	NNS	shits	
+20	IN	about	
+21	NN	none	
+22	IN	of	
+23	DT	these	
+24	NNP	Cheyney	
+25	NNS	boy's	
+26	.	.	
+
+85371807527473152
+0	VBP	Guess	
+1	WP	Who	
+2	''	"	
+3	NNP	American	
+4	NNP	Woman	
+5	''	"	
+
+58033765989093376
+0	HT	#nothappy	
+1	IN	that	
+2	NNP	Adelaide	
+3	VBZ	has	
+4	VBN	lost	
+5	DT	the	
+6	HT	#rugbysevens	
+
+68706092905009152
+0	USR	@BestRollerAlive	
+1	PRP	I'm	
+2	VBG	scoopin	
+3	NNP	Jo	
+4	RB	right	
+5	RB	now	
+
+59080370959814657
+0	NN	Phoooonneeeeeeeeee	
+1	IN	with	
+2	PRP$	my	
+3	NN	wife	
+4	.	!	
+
+65748429254561792
+0	NNP	Amateur	
+1	NNP	Radio	
+2	NNP	–	
+3	NNP	Hurricane	
+4	NNP	Katrina	
+5	NN	interview	
+6	CC	and	
+7	JJ	audio	
+8	:	|	
+9	NNP	Survival	
+10	NNS	Kits	
+11	URL	http://bit.ly/mC435R	
+
+89021963468681216
+0	JJ	Happy	
+1	JJ	Main	
+2	NN	Event	
+3	NN	Day	
+4	.	!	
+5	NNP	GL	
+6	TO	to	
+7	DT	all	
+8	WP	who	
+9	VBP	are	
+10	VBG	playing	
+11	IN	on	
+12	NNP	Day	
+13	CD	1A	
+14	.	.	
+15	NN	Action	
+16	VBZ	begins	
+17	IN	at	
+18	CD	3	
+19	NN	ET	
+20	.	.	
+
+63481189670985728
+0	RT	RT	
+1	USR	@RobertaSaidThat	
+2	:	:	
+3	NNS	Billionaires/CEOs	
+4	VBG	throwing	
+5	JJ	massive	
+6	NN	$$$	
+7	IN	into	
+8	NN	front	
+9	NNS	Orgs	
+10	IN	since	
+11	NNP	Citizens	
+12	NNP	United	
+13	.	.	
+14	PRP	They	
+15	NN	plan	
+16	TO	to	
+17	VB	BUY	
+18	NNP	America	
+19	NNP	Gov't	
+20	IN	in	
+21	CD	201	
+22	:	...	
+
+60888698782351360
+0	USR	@KWinnie89	
+1	UH	:/	
+2	PRP	It's	
+3	UH	okay	
+4	.	.	
+5	PRP	I	
+6	VBP	guess	
+7	NNS	people	
+8	VBP	are	
+9	VBG	going	
+10	RB	again	
+11	JJ	next	
+12	NN	week	
+13	,	,	
+14	VBP	do	
+15	PRP	you	
+16	VBP	think	
+17	PRP	you'll	
+18	VB	go	
+19	.	?	
+
+69860965243559936
+0	PRP	Its	
+1	DT	the	
+2	JJ	little	
+3	NNS	things	
+4	IN	that	
+5	VB	strengthen	
+6	PRP$	my	
+7	JJ	tiny	
+8	NNS	wings	
+9	.	.	
+
+73095465763213312
+0	JJ	New	
+1	NNP	FC	
+2	NNP	Menu	
+3	NNP	Utility	
+4	CD	2.0	
+5	HT	#apple	
+6	URL	http://t.co/VftFt2c	
+
+59677467614527488
+0	VB	Check	
+1	DT	this	
+2	NN	video	
+3	RP	out	
+4	:	--	
+5	NNP	Polaroid	
+6	NNP	Polarized	
+7	NNS	Sunglasses	
+8	-LRB-	(	
+9	NNP	Thailand	
+10	-RRB-	)	
+11	URL	http://t.co/m8JrjHG	
+12	IN	via	
+13	USR	@youtube	
+
+92762750178164736
+0	USR	@CoverGurlFayyy	
+1	PRP	i	
+2	VBD	did	
+3	RB	tooo	
+4	.	!	
+5	DT	this	
+6	VBZ	is	
+7	VBG	getting	
+8	JJ	goood	
+9	.	.	
+10	UH	lol	
+
+73409992300048384
+0	RT	RT	
+1	USR	@Sl0wb00gie	
+2	:	:	
+3	USR	@ashleydene	
+4	UH	lol	
+5	PRP	you	
+6	VBP	know	
+7	PRP	im	
+8	IN	down	
+9	IN	like	
+10	CD	4	
+11	NNS	flats	
+12	IN	on	
+13	DT	a	
+14	NN	cadillac	
+15	:	...	
+16	UH	lol	
+17	WRB	wut	
+18	PRP	it	
+19	VBP	do	
+20	.	??	
+21	UH	||	
+22	UH	Haha	
+23	.	!	
+24	VBP	love	
+25	PRP	it	
+
+119442713740460032
+0	HT	#FOLLOW	
+1	PRP	us	
+2	CC	&	
+3	HT	#CHECKOUT	
+4	DT	the	
+5	NN	multi-talented	
+6	NNP	Spanglish/Techno/Pop	
+7	NNP	Singer/Model	
+8	USR	@LaniBoomBoom	
+9	UH	aka	
+10	NNP	Lady	
+11	NNP	Boom	
+12	NNP	Boom	
+13	URL	http://t.co/370clluQ	
+
+115449631198027776
+0	RT	RT	
+1	USR	@thickinmyhips	
+2	PRP	i	
+3	VBP	hate	
+4	VBG	being	
+5	VBN	employed	
+6	RB	sometimes	
+7	.	!	
+
+93766442603913216
+0	USR	@modTINGsingh	
+1	MD	can	
+2	PRP	we	
+3	VBP	go	
+4	TO	to	
+5	NNP	tims	
+6	UH	please	
+7	CC	and	
+8	NNP	tonkkss	
+
+127065877815361537
+0	PRP	I'm	
+1	DT	a	
+2	JJ	super	
+3	NN	hero	
+4	IN	in	
+5	PRP$	my	
+6	JJ	own	
+7	RB	right	
+8	.	.	
+9	RB	Actually	
+10	:	...	
+11	NNP	Anti	
+12	NNP	Hero	
+13	RBR	more	
+14	IN	like	
+15	.	.	
+
+105178326045429760
+0	IN	ON	
+1	NNP	AIR	
+2	:	:	
+3	NNP	FeyDer	
+4	:	-	
+5	CD	20	
+6	NNP	Killa	
+7	NNP	Choons	
+8	NNP	Mix	
+9	HT	#Psych0Radio	
+
+125439808997818369
+0	USR	@TyeTyeee	
+1	UH	exactly	
+2	UH	ugh	
+
+109640994080817152
+0	USR	@Icallmyself	
+1	JJ	Beautiful	
+2	NN	view	
+3	.	.	
+4	NNS	Thanks	
+5	IN	for	
+6	VBG	sharing	
+7	.	!	
+
+98543599737782272
+0	NNP	Nick	
+1	NNP	Adamson's	
+2	NN	online	
+3	NN	audition	
+4	IN	for	
+5	NNP	Gunrunner	
+6	NNP	Billy	
+7	NNP	Kane's	
+8	NN	character	
+9	''	"	
+10	DT	The	
+11	NN	Rat	
+12	''	"	
+13	URL	http://fb.me/Q2q1JwMr	
+
+99312692380188673
+0	USR	@D_Fikes	
+1	PRP	I	
+2	VBP	miss	
+3	NNP	Fiko	
+4	:	..	
+
+122114208228851712
+0	DT	this	
+1	NN	history	
+2	NN	paper	
+3	VBZ	is	
+4	JJ	gay	
+5	NN	af	
+6	.	.	
+7	WP	who	
+8	VBZ	needs	
+9	JJ	creative	
+10	VBG	writting	
+11	IN	for	
+12	NN	histroy	
+
+116528259465887744
+0	UH	LMFAO	
+1	.	!!!!!!	
+2	UH	damn	
+3	,	,	
+4	DT	that	
+5	VBD	had	
+6	TO	to	
+7	VB	be	
+8	DT	the	
+9	NN	laugh	
+10	IN	of	
+11	DT	the	
+12	NN	morning	
+
+127893250399932416
+0	USR	@ily_Boobie	
+1	UH	lol	
+2	UH	ok	
+
+122917153212084226
+0	RT	RT	
+1	USR	@hesReal_CxD	
+2	:	:	
+3	RT	RT	
+4	''	"	
+5	USR	@ohLEGGOdinaa	
+6	:	:	
+7	DT	The	
+8	NN	phrase	
+9	''	'	
+10	PRP	she	
+11	JJ	coo	
+12	''	'	
+13	VBZ	means	
+14	DT	the	
+15	JJ	complete	
+16	NN	opposite	
+17	.	.	
+18	''	"	
+19	HT	#realshit	
+
+124185968180871169
+0	WP	Who	
+1	VBP	do	
+2	PRP	I	
+3	VBD	belong	
+4	TO	to	
+5	.	?	
+6	JJ	Unchanging	
+7	NNP	Creator	
+8	NNP	Immortal	
+9	NNP	Eternal	
+10	:	...	
+
+124968306615664640
+0	RT	RT	
+1	USR	@Bollebof	
+2	:	:	
+3	PRP	I	
+4	VBP	don't	
+5	VB	have	
+6	DT	a	
+7	NN	drinking	
+8	NN	PROBLEM	
+9	.	.	
+10	PRP	I	
+11	VBP	drink	
+12	,	,	
+13	PRP	I	
+14	VBP	get	
+15	JJ	drunk	
+16	.	.	
+17	PRP	I	
+18	VBP	fall	
+19	RP	down	
+20	.	.	
+21	DT	NO	
+22	NN	PROBLEM	
+23	.	.	
+
+116663488197300224
+0	USR	@PrettyNpaidCEO	
+1	RB	right	
+2	:	..	
+
+120876456661352448
+0	JJ	Big	
+1	JJ	East	
+2	NNS	CEOs	
+3	UH	OK	
+4	NN	commish	
+5	TO	to	
+6	VB	pursue	
+7	NN	expansion	
+8	:	:	
+9	DT	The	
+10	NNS	presidents	
+11	CC	and	
+12	NNP	chancellors	
+13	IN	of	
+14	DT	the	
+15	CD	14	
+16	JJ	remaining	
+17	JJ	Big	
+18	JJ	East	
+19	NN	member	
+20	:	...	
+21	URL	http://t.co/a7czSlGV	
+
+128284067157393408
+0	JJ	Glad	
+1	DT	some	
+2	NN	network	
+3	VBD	picked	
+4	RP	up	
+5	HT	#AmericasMostWanted	
+6	.	.	
+7	USR	@lifetimetv	
+
+113350784896352256
+0	USR	@davidhemphill	
+1	VBD	Were	
+2	PRP	you	
+3	NNS	guys	
+4	IN	at	
+5	NN	church	
+6	NN	yesterday	
+7	.	?	
+8	PRP	I	
+9	VBD	thought	
+10	PRP	I	
+11	VBD	saw	
+12	PRP	you	
+13	IN	during	
+14	NN	worship	
+15	,	,	
+16	CC	but	
+17	PRP	I	
+18	MD	couldn't	
+19	RB	really	
+20	VB	tell	
+21	IN	because	
+22	IN	of	
+23	DT	those	
+24	NNS	lights	
+25	:	...	
+
+123435103836839936
+0	UH	oh	
+1	UH	no	
+2	.	!	
+3	RB	apparently	
+4	NNP	bbm	
+5	VBZ	is	
+6	VBG	working	
+7	RB	again	
+8	,	,	
+9	NNP	que	
+10	DT	all	
+11	DT	the	
+12	NNS	status's	
+13	RB	again	
+14	UH	-_-	
+
+117237373632380929
+0	:	.....	
+1	VBP	think	
+2	PRP	I	
+3	MD	might	
+4	VB	move	
+5	TO	to	
+6	NNP	Raleigh	
+7	.	.	
+8	NNP	NCSU	
+9	VBG	giving	
+10	RP	up	
+11	DT	any	
+12	NN	money	
+13	.	??	
+
+108387589492449280
+0	USR	@monaeebbyy2k11	
+1	PRP	I	
+2	VBP	miss	
+3	PRP	you	
+4	RB	too	
+5	UH	<3	
+6	PRP	I	
+7	VBP	miss	
+8	NNP	|California|	
+9	CC	but	
+10	PRP	imma	
+11	VB	come	
+12	VB	see	
+13	PRP	you	
+14	IN	as	
+15	RB	soon	
+16	IN	as	
+17	PRP	I	
+18	VBP	come	
+19	RB	back	
+20	PRP	I	
+21	HT	#promise	
+
+114094913100066816
+0	USR	@BlackStaxx_SCF	
+1	PRP	you	
+2	RB	already	
+
+93871153625567232
+0	PRP	I	
+1	VBP	don't	
+2	VB	understand	
+3	WRB	why	
+4	NN	someone	
+5	MD	would	
+6	VB	decline	
+7	DT	a	
+8	NN	game	
+9	IN	on	
+10	NNS	words	
+11	IN	with	
+12	NNS	friends	
+13	HT	#thingsunknown	
+
+121609252023443456
+0	PRP	I	
+1	VBD	uploaded	
+2	DT	a	
+3	USR	@YouTube	
+4	NN	video	
+5	URL	http://t.co/DMqaU4vJ	
+6	NNP	paris	
+7	.	.	
+8	URL	flv	
+
+126118187292041216
+0	VBG	Reading	
+1	CC	and	
+2	VBG	tweeting	
+3	-LRB-	(	
+4	CD	99%	
+5	VBG	tweeting	
+6	,	,	
+7	.	.	
+8	CD	5%	
+9	VBG	reading	
+10	,	,	
+11	.	.	
+12	CD	5%	
+13	VBG	wanting	
+14	TO	to	
+15	VB	fall	
+16	RB	asleep	
+17	-RRB-	)	
+
+112582513947455490
+0	PRP	Its	
+1	IN	about	
+2	TO	to	
+3	VB	go	
+4	RP	down	
+5	.	!	
+6	UH	*	
+7	NNP	kevin	
+8	NNP	hart	
+9	NN	voice	
+10	UH	*	
+
+127248586055483392
+0	DT	A	
+1	JJ	nice	
+2	JJ	fluffy	
+3	NN	pillow	
+4	VBZ	sounds	
+5	JJ	great	
+
+95279860716535808
+0	WP	What	
+1	DT	a	
+2	NN	bummer	
+3	.	.	
+
+104209643236106240
+0	UH	«	
+1	USR	@KayoVito	
+2	HT	#KayoQ	
+3	:	&A	
+4	NNS	LADIES	
+5	WP	what	
+6	IN	if	
+7	PRP	u	
+8	VBP	tell	
+9	DT	a	
+10	NN	guy	
+11	''	"	
+12	PRP	I	
+13	VBP	Love	
+14	PRP	you	
+15	''	"	
+16	CC	and	
+17	PRP	he	
+18	VBZ	says	
+19	''	"	
+20	UH	oh	
+21	UH	ok	
+22	''	"	
+23	:	.......	
+24	RB	then	
+25	WP	what	
+26	.	?	
+27	IN	»then	
+28	PRP	he	
+29	VBP	don't	
+30	VB	love	
+31	PRP	you	
+32	UH	lol	
+
+112184986265849856
+0	VBP	Miss	
+1	USR	@HelzaStephanie	
+2	:	╮	
+3	UH	("╯_╰)	
+4	UH	╭	
+
+115185637753225216
+0	RT	RT	
+1	USR	@thejoemoses	
+2	:	:	
+3	RB	Also	
+4	:	:	
+5	VB	buy	
+6	NN	tix	
+7	IN	for	
+8	PRP$	my	
+9	JJ	good	
+10	NN	buddy	
+11	USR	@DarrenCriss	
+12	IN	in	
+13	USR	@H2SBway	
+14	.	!	
+15	PRP	He	
+16	MD	will	
+17	VB	be	
+18	JJ	amazing	
+19	CC	and	
+20	PRP	I	
+21	MD	will	
+22	VB	be	
+23	RB	there	
+24	VBG	cheering	
+25	IN	along	
+26	IN	w	
+27	PRP	you	
+28	.	!	
+29	:	...	
+
+101130323772968960
+0	PRP	I	
+1	VBP	wonder	
+2	WRB	when	
+3	NNP	Nic	
+4	NNP	Cage	
+5	VBZ	is	
+6	VBG	going	
+7	TO	to	
+8	VB	film	
+9	''	"	
+10	DT	Another	
+11	NN	Something	
+12	NN	Something	
+13	NNP	Las	
+14	NNP	Vegas	
+15	''	"	
+16	.	.	
+
+98695861281886208
+0	USR	@CareenaCoolAss	
+1	PRP	u	
+2	RB	not	
+3	VBG	callin	
+4	PRP	me	
+
+106836124592390144
+0	NN	Photo	
+1	:	:	
+2	URL	http://t.co/2zggP2a	
+
+110555927261872129
+0	VBG	Givin	
+1	RP	out	
+2	RB	Back	
+3	NNS	shots	
+
+102880078140149761
+0	UH	Whaoo	
+1	HT	#BlowUp	
+2	RT	RT	
+3	USR	@ENVYTheRedHead_	
+4	:	:	
+5	PRP$	My	
+6	NN	mom	
+7	NN	bitchh	
+8	TO	to	
+9	RB	much	
+10	.	.	
+
+120099650651963392
+0	RT	RT	
+1	USR	@SayingsForGirls	
+2	:	:	
+3	PRP	He's	
+4	JJ	cute	
+5	.	.	
+6	PRP	He's	
+7	JJ	fine	
+8	.	.	
+9	PRP	He's	
+10	NN	everything	
+11	CC	but	
+12	NN	mine	
+13	.	.	
+
+122013792543571968
+0	USR	@evalina_eva	
+1	RT	RT	
+2	USR	@girlsdeals	
+3	:	:	
+4	CD	One	
+5	NN	day	
+6	PRP	I	
+7	VBP	hope	
+8	PRP	you	
+9	VBP	look	
+10	RB	back	
+11	IN	at	
+12	WP	what	
+13	PRP	we	
+14	VBD	had	
+15	,	,	
+16	CC	and	
+17	VB	regret	
+18	DT	every	
+19	JJ	single	
+20	NN	thing	
+21	PRP	you	
+22	VBD	did	
+23	TO	to	
+24	VB	let	
+25	PRP	it	
+26	NN	end	
+27	.	.	
+
+111620961601724416
+0	USR	@inglish4u	
+1	UH	Hehe	
+2	PRP	I'm	
+3	RB	still	
+4	IN	on	
+5	PRP$	my	
+6	NN	summer	
+7	NN	vacation	
+8	UH	:)	
+9	CC	but	
+10	IN	if	
+11	PRP	I	
+12	VBP	don't	
+13	VB	try	
+14	VB	get	
+15	RP	up	
+16	RBR	earlier	
+17	IN	than	
+18	RB	now	
+19	,	,	
+20	PRP	I'll	
+21	RB	definitely	
+22	VB	be	
+23	JJ	late	
+24	IN	for	
+25	NN	school	
+26	UH	:'(	
+27	HT	#i4u	
+
+97091615847485440
+0	USR	@walkerhell	
+1	PRP	I	
+2	VBP	know	
+3	CC	but	
+4	VBG	passing	
+5	NN	uni	
+6	IN	so	
+7	PRP	I	
+8	MD	can	
+9	VB	go	
+10	TO	to	
+11	NNP	America	
+12	JJ	next	
+13	NN	year	
+14	CC	and	
+15	VB	stalk	
+16	RP	out	
+17	NNP	Corey	
+18	,	,	
+19	DT	that's	
+20	DT	a	
+21	NN	plan	
+22	.	.	
+
+126015838020042752
+0	USR	@BenmStanley	
+1	CD	4	
+2	NNS	pages	
+3	TO	to	
+4	VB	be	
+5	JJ	precise	
+
+114437172601438208
+0	USR	@Tongriyang	
+1	NN	schl	
+2	VBZ	is	
+3	UH	ok	
+4	RB	so	
+5	RB	far	
+6	:	....	
+7	MD	will	
+8	VB	calll	
+9	PRP	u	
+10	RB	soon	
+11	:	...	
+12	RB	still	
+13	IN	with	
+14	PRP$	my	
+15	NN	fone	
+16	:	...	
+17	PRP	he	
+18	VBZ	is	
+19	JJ	good	
+20	UH	;-)	
+21	UH	hw	
+22	VBP	r	
+23	PRP	u	
+24	.	?	
+
+123846912964169728
+0	RT	RT	
+1	USR	@theprovince	
+2	:	:	
+3	WRB	How	
+4	VBP	do	
+5	PRP	you	
+6	VBP	deter	
+7	NNS	bears	
+8	IN	from	
+9	PRP$	your	
+10	NN	garbage	
+11	.	?	
+12	NNS	Tri-Cities	
+13	VBZ	has	
+14	CD	2,000	
+15	NN	bear	
+16	NNS	complaints	
+17	RB	annually	
+18	URL	http://t.co/94qOT3j1	
+19	IN	via	
+20	USR	@ianau	
+21	:	...	
+
+102452334654783488
+0	PRP	I	
+1	VBP	needa	
+2	VB	cut	
+3	.	.	
+
+99712200096219136
+0	USR	@Bryan_wright11	
+1	PRP	i	
+2	VBD	lost	
+3	DT	all	
+4	PRP$	my	
+5	NNS	contacts	
+6	,	,	
+7	UH	smh	
+8	.	.	
+
+122633941470560256
+0	RT	RT	
+1	USR	@HarryAndNiall1D	
+2	:	:	
+3	NNP	Sami	
+4	NNP	Brookes	
+5	NNP	Glamour	
+6	NNP	Shot	
+7	.	!	
+8	URL	http://t.co/MW4wCNZx	
+
+119145760989257728
+0	DT	This	
+1	HT	#CoonShit	
+2	RB	right	
+3	RB	here	
+4	RB	tho	
+5	URL	twitpic.com/6s0h5f	
+
+109019209534672897
+0	RT	RT	
+1	USR	@iamGUYEL	
+2	:	:	
+3	VB	Don't	
+4	VB	stress	
+5	DT	the	
+6	''	"	
+7	MD	could	
+8	VB	haves	
+9	''	"	
+10	IN	if	
+11	PRP	it	
+12	MD	should	
+13	VB	have	
+14	,	,	
+15	PRP	It	
+16	MD	would	
+17	VB	have	
+
+103730091690950656
+0	NNP	Mi	
+1	VBD	nexted	
+2	NN	tatt	
+3	RT	RT	
+4	USR	@slimisthe_hbic	
+5	''	"	
+6	VB	see	
+7	''	"	
+8	DT	no	
+9	NN	evil	
+10	''	"	
+11	VBP	hear	
+12	''	"	
+13	DT	no	
+14	NN	evil	
+15	''	"	
+16	VB	speak	
+17	''	"	
+18	DT	no	
+19	NN	evil	
+
+100230205125312512
+0	RT	RT	
+1	USR	@_frontpageher	
+2	:	:	
+3	HT	#messagetomyex	
+4	VB	fuck	
+5	DT	that	
+6	NN	nigga	
+7	IN	that	
+8	PRP	u	
+9	VBP	love	
+10	RB	so	
+11	JJ	bad	
+12	,	,	
+13	PRP	I	
+14	VBP	know	
+15	PRP	u	
+16	RB	still	
+17	VBP	think	
+18	IN	about	
+19	DT	the	
+20	NNS	times	
+21	PRP	we	
+22	VBD	had	
+23	.	!	
+
+104607145663807489
+0	USR	@yosoyRoland	
+1	UH	no	
+2	PRP	you	
+3	VBD	were	
+4	RB	right	
+5	UH	lol	
+6	:	..	
+7	PRP	I	
+8	VBP	do	
+9	VB	have	
+10	TO	to	
+11	VB	stop	
+12	CC	and	
+13	PRP	I	
+14	VBP	appreciate	
+15	DT	the	
+16	NN	input	
+
+110020457012527104
+0	UH	OOHHHH	
+1	DT	that	
+2	VBD	was	
+3	RB	sssoooo	
+4	JJ	good	
+5	.	!!	
+6	CD	1st	
+7	NN	bath	
+8	IN	since	
+9	MD	May	
+10	UH	lol	
+11	UH	:)	
+
+128202202870329345
+0	RT	RT	
+1	USR	@jaxlively	
+2	:	:	
+3	.	!!!	
+4	RT	RT	
+5	USR	@Cooliomandingo	
+6	:	:	
+7	NN	Homework	
+8	VBZ	blows	
+9	UH	tf	
+10	IN	outta	
+11	PRP$	my	
+12	NN	day	
+13	.	.	
+
+98062781701570560
+0	PRP	i	
+1	VBP	love	
+2	PRP	you	
+3	RBR	more	
+4	IN	than	
+5	VBP	love	
+6	PRP	itself	
+7	USR	@farizaelstang	
+
+129649527262158848
+0	PRP	i	
+1	RB	really	
+2	VBP	want	
+3	DT	a	
+4	NN	pet	
+5	NN	gremlin	
+6	IN	like	
+7	RB	seriously	
+8	PRP	they	
+9	VBP	are	
+10	RB	so	
+11	JJ	cute	
+12	CC	and	
+13	PRP	i	
+14	VBP	promise	
+15	PRP	i	
+16	MD	wont	
+17	VB	feed	
+18	PRP	it	
+19	IN	after	
+20	NN	midnight	
+21	.	?	
+22	UH	:')	
+
+140069994632454144
+0	NNS	PEOPLE	
+1	IN	OF	
+2	DT	THE	
+3	NN	INTERNET	
+4	.	!	
+5	DT	The	
+6	NNP	Prince	
+7	NN	doco	
+8	VBZ	is	
+9	IN	on	
+10	IN	at	
+11	CD	9PM	
+12	IN	on	
+13	NNP	BBC4	
+14	,	,	
+15	CC	and	
+16	IN	then	
+17	NNP	Purple	
+18	NNP	Rain	
+19	VBZ	is	
+20	IN	on	
+21	IN	at	
+22	CD	10PM	
+23	.	.	
+24	NNS	Apologies	
+25	IN	for	
+26	RBR	earlier	
+27	JJ	incorrect	
+28	NNS	timings	
+29	.	.	
+
+130988042914770944
+0	UH	Punkin	
+1	PRP	I	
+2	VBD	carved	
+3	IN	in	
+4	CD	1st	
+5	NN	period	
+6	.	.	
+7	UH	(:	
+8	URL	http://t.co/r7Xx7Wba	
+
+164959275234508802
+0	VBP	Watch	
+1	NNP	Mobbed	
+2	NNP	Season	
+3	CD	1	
+4	NN	Episode	
+5	CD	5	
+6	NN	Episode	
+7	CD	5	
+8	NNP	No	
+9	NNP	Survey	
+10	NNP	Channel	
+11	NNP	online	
+12	NNP	HD	
+13	:	...	
+14	URL	http://t.co/2mRPFMjt	
+
+161125329325395968
+0	PRP	I	
+1	VBP	wish	
+2	PRP	you	
+3	VBD	had	
+4	DT	a	
+5	NN	fone	
+6	IN	so	
+7	PRP	we	
+8	MD	can	
+9	VB	talk	
+10	.	!	
+
+142452795365265408
+0	UH	Goodnight	
+1	NN	everyone	
+2	:	...	
+3	UH	<33	
+4	UH	://	
+
+145920771653505024
+0	RT	RT	
+1	USR	@safff_	
+2	UH	«	
+3	USR	@SCREAM_MICHine	
+4	USR	@Elijah_R	
+5	VBG	cuffin	
+6	IN	in	
+7	DT	the	
+8	NN	avi	
+9	,	,	
+10	NNP	Gimme	
+11	CD	$20	
+12	UH	»	
+
+148698906732138496
+0	USR	@Princsella	
+1	WP	what	
+2	NN	bit	
+3	VBP	are	
+4	PRP	you	
+5	IN	on	
+6	NN	atm	
+
+149273102881271808
+0	USR	@BrionyBea	
+1	UH	hehee	
+2	,	,	
+3	UH	thankyou	
+4	UH	:D	
+5	UH	awh	
+6	UH	lmao	
+7	UH	:)	
+8	UH	xxx	
+
+146785687386075137
+0	NN	Family	
+1	NN	Feud	
+2	NNS	Decades	
+3	NN	trophy	
+4	NN	list	
+5	URL	http://t.co/7VDrYVlb	
+
+132869066523291649
+0	IN	Since	
+1	NN	football	
+2	NNS	seasons	
+3	IN	over	
+4	WP	what	
+5	MD	should	
+6	PRP	i	
+7	VBP	do	
+8	:	...	
+
+136182378157719552
+0	RT	RT	
+1	USR	@FayePalmerNews	
+2	:	:	
+3	JJ	Exclusive	
+4	NN	picture	
+5	IN	of	
+6	USR	@FayePalmer_BB	
+7	CC	and	
+8	NNP	Jay's	
+9	NN	mum	
+10	NN	Sue	
+11	.	!	
+12	URL	http://t.co/rJHLPRrj	
+
+136916473510756352
+0	USR	@WaltBabyLove504	
+1	PRP	they	
+2	RB	not	
+3	VBG	using	
+4	NNS	IDs	
+5	.	!	
+6	PRP	Its	
+7	DT	a	
+8	NN	classic	
+9	,	,	
+10	VBP	gotta	
+11	VB	buy	
+12	NN	ticket	
+13	UH	=(	
+
+150439178151268352
+0	USR	@BlowMeAway117	
+1	UH	No	
+2	,	,	
+3	EX	there	
+4	VBP	are	
+5	RBR	more	
+6	JJ	extensive	
+7	NNS	steps	
+8	RB	there	
+9	.	.	
+10	VB	Try	
+11	PRP	them	
+12	DT	all	
+13	,	,	
+14	IN	in	
+15	NN	order	
+16	.	.	
+17	RT	^PS	
+
+151088418275856384
+0	USR	@mashalmatere	
+1	USR	@NjoodM	
+2	USR	@WaleedAlsaggaf	
+3	USR	@Sa7i_Elbal	
+4	CC	and	
+5	DT	some	
+6	NNS	others	
+7	VBD	unfollowed	
+8	PRP	me	
+9	:	[	
+10	VBD	checked	
+11	IN	by	
+12	URL	http://t.co/EwYj9xGI	
+13	:	]	
+
+135385875520552961
+0	PRP	I	
+1	VBP	hate	
+2	NNP	MSU	
+3	.	!!	
+4	NNP	Hawwwwwwwks	
+5	.	!!	
+
+148080943310184448
+0	NNS	Pictures	
+1	IN	of	
+2	PRP	me	
+3	VBP	turn	
+4	PRP	me	
+5	IN	on	
+6	,	,	
+7	VBZ	is	
+8	DT	that	
+9	JJ	wrong	
+10	.	.	
+11	.	?	
+
+149624845448122368
+0	USR	@JanetteAhylin	
+1	VBD	did	
+2	PRP	u	
+3	VBP	get	
+4	IN	that	
+5	NNP	janette	
+6	.	!?	
+7	''	"	
+8	NN	prefection	
+9	VBZ	rhymes	
+10	IN	with	
+11	CD	one	
+12	NN	direction	
+13	''	"	
+14	RB	Not	
+15	NNP	Janette	
+16	NNP	Gonzalez	
+17	.	.	
+18	UH	~	
+19	UH	Lol	
+
+159130035926745088
+0	USR	@HollieRicard	
+1	UH	yaaay	
+2	.	!	
+3	UH	^.^	
+
+157862689148895233
+0	JJ	First	
+1	NN	time	
+2	IN	on	
+3	VBP	hear	
+4	CC	and	
+5	VB	don't	
+6	VB	have	
+7	DT	a	
+8	NN	clue	
+9	WRB	wot	
+10	TO	to	
+11	VB	do	
+12	UH	lol	
+13	UH	xxx	
+
+163393260604235777
+0	JJ	Stupid	
+1	NNP	Kilkenny	
+2	MD	didn't	
+3	VB	get	
+4	TO	to	
+5	VB	meet	
+6	USR	@Royseven	
+7	UH	:/	
+
+143540978094063616
+0	DT	No	
+1	NN	Test	
+2	IN	for	
+3	PRP	me	
+4	,	,	
+5	NN	tomar	
+6	UH	:)	
+
+158657522222383104
+0	USR	@Bella_Bijou	
+1	UH	Kmsl	
+2	.	.	
+3	VB	Leave	
+4	NNP	Anna	
+5	RP	out	
+6	.	.	
+7	IN	of	
+8	DT	this	
+9	.	.	
+10	NNP	God	
+11	PRP	Ima	
+12	VB	have	
+13	TO	to	
+14	VB	hear	
+15	IN	about	
+16	DT	this	
+17	DT	all	
+18	NN	week	
+19	UH	huh	
+
+161970485620514818
+0	NNP	Sergio	
+1	NNP	Ramos	
+2	VBZ	calls	
+3	IN	for	
+4	NN	end	
+5	TO	to	
+6	NNP	Real	
+7	NNP	Madrid	
+8	''	'	
+9	NN	mole	
+10	''	'	
+11	VB	talk	
+12	IN	as	
+13	NNP	Iker	
+14	NNP	Casillas	
+15	VBZ	is	
+16	VBN	accused	
+17	IN	of	
+18	VBG	leaking	
+19	PRP$	his	
+20	NNS	team-mate's	
+21	NN	argument	
+22	IN	with	
+23	NNP	Jose	
+24	NNP	Mourinho	
+
+157319145099235329
+0	''	"	
+1	PRP	We	
+2	MD	can’t	
+3	VB	command	
+4	PRP$	our	
+5	NN	love	
+6	,	,	
+7	CC	but	
+8	PRP	we	
+9	MD	can	
+10	PRP$	our	
+11	NNS	actions	
+12	''	"	
+13	:	-	
+14	UH	Sir	
+15	NNP	Arthur	
+16	NNP	Connan	
+17	NNP	Doyle	
+18	URL	http://t.co/4ZN1gCjH	
+19	HT	#NOOK	
+
+163660299315052544
+0	RT	RT	
+1	USR	@GodlyTweet	
+2	:	:	
+3	DT	This	
+4	VBZ	is	
+5	DT	the	
+6	NN	day	
+7	DT	the	
+8	NNP	Lord	
+9	VBZ	has	
+10	VBN	made	
+11	,	,	
+12	PRP	I	
+13	MD	will	
+14	VB	rejoice	
+15	CC	and	
+16	VB	be	
+17	JJ	glad	
+18	IN	in	
+19	PRP	it	
+20	UH	:)	
+
+135855494832193536
+0	RT	RT	
+1	USR	@GryffindorAngie	
+2	:	:	
+3	USR	@GeorgeWeasley_	
+4	VB	read	
+5	DT	this	
+6	.	!!!	
+7	URL	http://t.co/Qn5tk3vF	
+
+159500724156375040
+0	NN	Someone	
+1	VBD	was	
+2	RB	just	
+3	VBG	questioning	
+4	WRB	how	
+5	PRP	I	
+6	MD	would	
+7	VB	look	
+8	JJ	pregnant	
+9	:	...	
+10	CC	and	
+11	VBD	asked	
+12	IN	if	
+13	PRP	I	
+14	MD	would	
+15	VB	lose	
+16	DT	the	
+17	NN	weight	
+18	IN	after	
+19	VBG	having	
+20	DT	the	
+21	NN	baby	
+22	:	...	
+23	PRP	I	
+24	VBD	said	
+25	NN	hell	
+26	UH	yea	
+27	.	!	
+
+149704759559983104
+0	NN	time	
+1	TO	to	
+2	VB	start	
+3	VBG	living	
+4	IN	like	
+5	RB	just	
+6	IN	before	
+7	PRP	we	
+8	VBP	die	
+
+144639420249804800
+0	DT	All	
+1	PRP$	our	
+2	NNS	dreams	
+3	MD	can	
+4	VB	come	
+5	JJ	true	
+6	,	,	
+7	IN	if	
+8	PRP	we	
+9	VBP	have	
+10	DT	the	
+11	NN	courage	
+12	TO	to	
+13	VB	pursue	
+14	PRP	them	
+15	.	.	
+16	:	--	
+17	NNP	Walt	
+18	NNP	Disney	
+
+164237527874678784
+0	UH	Wah	
+1	PRP$	my	
+2	NN	mum	
+3	UH	damn	
+4	NN	stalker	
+5	NN	sia	
+6	PRP	i	
+7	VBP	need	
+8	TO	to	
+9	JJ	private	
+10	PRP$	my	
+11	NNS	tweets	
+
+143415681512243200
+0	USR	@WWE	
+1	NN	doesn't	
+2	VB	change	
+3	NN	anything	
+4	IN	if	
+5	PRP	it's	
+6	DT	a	
+7	''	"	
+8	JJS	best	
+9	NN	seller	
+10	.	.	
+11	''	"	
+12	NNP	IE	
+13	USR	@JohnCena	
+14	CC	and	
+15	DT	the	
+16	NNP	WWE	
+17	NNP	Title	
+18	.	.	
+19	JJS	Most	
+20	NNS	businesses	
+21	VBP	reinvest	
+22	PRP$	their	
+23	NNS	profits	
+24	IN	into	
+25	JJ	NEW	
+26	NNS	things	
+
+153276356334075904
+0	NN	Nobody	
+1	VBZ	cares	
+2	IN	about	
+3	NN	watch	
+4	VBD	did	
+5	IN	in	
+6	CD	2011	
+7	.	!	
+
+141662663892676608
+0	RT	RT	
+1	USR	@JasonKennedy1	
+2	:	:	
+3	PRP	I'm	
+4	VBG	sitting	
+5	RP	down	
+6	IN	with	
+7	NNP	Gaga	
+8	IN	for	
+9	DT	an	
+10	IN	in	
+11	NN	depth	
+12	NN	intv	
+13	NN	2day	
+14	,	,	
+15	VBD	got	
+16	.	?	
+17	''	'	
+18	VBZ	s	
+19	:	->	
+20	RT	RT	
+21	USR	@ladygaga	
+22	:	:	
+23	DT	The	
+24	''	"	
+25	NNP	Marry	
+26	NNP	The	
+27	NNP	Night	
+28	''	"	
+29	NN	Video	
+30	MD	will	
+31	VB	prem	
+32	:	...	
+
+151647431027732480
+0	USR	@mii_YoYo	
+1	PRP	You	
+2	VBP	Suppose	
+3	TO	To	
+4	VB	Say	
+5	UH	Good'Morning	
+6	VBP	LOVE	
+7	UH	♥	
+
+133360034892623872
+0	UH	Lol	
+1	,	,	
+2	DT	this	
+3	NN	kid	
+4	:	...	
+
+139404836755091456
+0	RT	RT	
+1	USR	@MovemberUK	
+2	:	:	
+3	RB	Quite	
+4	,	,	
+5	RB	quite	
+6	JJ	extraordinary	
+7	HT	#movember	
+8	NN	effort	
+9	:	:	
+10	URL	http://t.co/cE8LwhBg	
+11	IN	via	
+12	USR	@twitpic	
+
+161578574174896128
+0	''	"	
+1	NNP	The	
+2	NNP	Playbook	
+3	''	"	
+4	JJS	FUNNIEST	
+5	NN	EPISODE	
+6	RB	EVERRRR	
+7	UH	hahahahah	
+
+165836698780041217
+0	USR	@asya269	
+1	VB	Follow	
+2	USR	@hardiksco	
+3	:	..	
+4	PRP	He	
+5	VBZ	has	
+6	JJ	awesome	
+7	NNS	quotes	
+8	CC	and	
+9	PRP$	Your	
+10	NN	end	
+11	RP	up	
+12	IN	with	
+13	UH	wow	
+14	:	..	
+15	UH	:-)	
+16	VB	Follow	
+17	PRP	him	
+18	IN	if	
+19	PRP	you	
+20	IN	like	
+21	PRP$	his	
+22	NNS	tweets	
+23	:	..	
+
+132135927563816960
+0	IN	In	
+1	CC	&	
+2	RP	out	
+3	IN	in	
+4	JJR	less	
+5	IN	than	
+6	DT	a	
+7	NN	half	
+8	NN	hour	
+9	,	,	
+10	VB	thank	
+11	PRP	you	
+12	NNP	Jesus	
+13	.	!	
+
+164537223709069312
+0	PRP	I	
+1	VBP	love	
+2	PRP$	My	
+3	NN	sister	
+4	CC	and	
+5	PRP	her	
+6	NN	slowness	
+7	UH	lolol	
+
+144120513592176640
+0	PRP$	My	
+1	NN	hustle	
+2	VBZ	is	
+3	JJ	perpetual	
+4	DT	that	
+5	VBZ	means	
+6	PRP	it	
+7	RB	never	
+8	VBZ	stops	
+9	VBG	moving	
+
+155475622548873216
+0	RT	RT	
+1	USR	@Restaurant_Ebok	
+2	:	:	
+3	NNP	Gas	
+4	NNP	Fitter	
+5	CC	and	
+6	JJ	Central	
+7	NN	Heating	
+8	NN	Engineer	
+9	NN	Business	
+10	NN	Plan	
+
+142965322360684546
+0	-LRB-	[	
+1	VB	POST	
+2	:	]	
+3	NNP	Spammy’s	
+4	CD	12	
+5	NNS	Days	
+6	IN	of	
+7	NNP	Xmas	
+8	:	:	
+9	NN	Day	
+10	CD	2	
+11	:	–	
+12	VBG	Burning	
+13	DT	the	
+14	NN	Tool	
+15	NN	Log	
+16	URL	http://t.co/PdNKL8qF	
+
+132593093869453313
+0	USR	@UglyNipplesTho	
+1	UH	awh	
+2	UH	shit	
+3	.	!	
+4	PRP$	my	
+5	NN	po	
+6	NN	babie	
+7	:	...	
+8	PRP	you	
+9	JJ	good	
+10	RB	now	
+11	.	?!	
+
+160240888965103617
+0	''	“	
+1	USR	@WTFCrazyFacts	
+2	:	:	
+3	DT	The	
+4	NN	average	
+5	JJ	human	
+6	NNS	experiences	
+7	IN	about	
+8	CD	70,000	
+9	NNS	thoughts	
+10	DT	a	
+11	NN	day	
+12	.	.	
+13	''	”	
+14	PRP	I	
+15	MD	must	
+16	VB	be	
+17	RB	fucking	
+18	JJ	stupid	
+19	IN	cuz	
+20	PRP	I	
+21	RB	just	
+22	VBP	think	
+23	IN	about	
+24	CD	one	
+25	NN	thing	
+26	UH	:\	
+
+153902062567030784
+0	USR	@ScarletAblettx	
+1	HT	#YNWA	
+2	JJS	best	
+3	VBZ	wishes	
+4	IN	at	
+5	DT	this	
+6	JJ	sad	
+7	NN	time	
+
+137631501750767617
+0	USR	@Zoe_Titmuss	
+1	UH	yeh	
+2	PRP	i	
+3	VBP	have	
+4	DT	no	
+5	NN	idea	
+6	CC	but	
+7	PRP	i	
+8	MD	cant	
+9	VB	wait	
+10	UH	xx	
+
+133912194193698817
+0	''	"	
+1	NNP	Logic	
+2	MD	will	
+3	VB	get	
+4	PRP	you	
+5	IN	from	
+6	DT	A	
+7	TO	to	
+8	VB	B	
+9	.	.	
+10	NN	Imagination	
+11	MD	will	
+12	VB	take	
+13	PRP	you	
+14	RB	everywhere	
+15	.	.	
+16	''	"	
+17	:	-	
+18	NNP	Albert	
+19	NNP	Einstein	
+20	.	.	
+21	UH	[	
+22	URL	http://t.co/H2DrUdVX	
+23	:	]	
+24	HT	#tech	
+25	HT	#beupdate	
+
+162882654457438209
+0	UH	OK	
+1	,	,	
+2	NNP	East	
+3	NNP	Haven	
+4	:	:	
+5	EX	There	
+6	VBP	are	
+7	CD	9	
+8	NNS	contenders	
+9	IN	for	
+10	DT	the	
+11	NNP	Academy	
+12	NNP	Award	
+13	IN	in	
+14	DT	the	
+15	JJS	Best	
+16	NN	Picture	
+17	NN	category	
+18	.	.	
+19	WP	What's	
+20	PRP$	your	
+21	NN	pick	
+22	.	?	
+23	URL	http://t.co/LsYEWQLv	
+
+165226704049160192
+0	JJ	Hapy	
+1	NN	b'day	
+2	JJ	purple	
+3	NN	egg	
+4	UH	^^	
+5	USR	@GaemGyu	
+
+138665183441731585
+0	USR	@savanastang	
+1	EX	there	
+2	VBP	are	
+3	RBR	more	
+4	NNS	#creatures	
+5	IN	in	
+6	NNP	donny's	
+7	NN	room	
+8	IN	in	
+9	NN	today	
+10	RB	too	
+11	JJ	bad	
+12	PRP	you	
+13	VBD	missed	
+14	PRP	them	
+15	UH	:)	
+
+131607298140422145
+0	VB	keep	
+1	PRP	it	
+2	HT	#Gangsta	
+
+152393962571829248
+0	DT	Another	
+1	NN	push	
+2	TO	to	
+3	VB	allow	
+4	NNS	guns	
+5	IN	on	
+6	NN	college	
+7	NNS	campuses	
+8	:	:	
+9	DT	The	
+10	JJ	upcoming	
+11	JJ	legislative	
+12	NN	session	
+13	MD	will	
+14	VB	see	
+15	DT	a	
+16	NN	push	
+17	IN	by	
+18	JJ	pro-gun	
+19	:	...	
+20	URL	http://t.co/QFzgmXOm	
+
+156852042202218497
+0	RT	RT	
+1	USR	@kameronwhalum	
+2	:	:	
+3	''	"	
+4	PRP	I	
+5	VBP	do	
+6	PRP	it	
+7	IN	for	
+8	PRP$	my	
+9	NN	folk	
+10	WP	who	
+11	RB	genuinely	
+12	VBP	want	
+13	PRP	me	
+14	TO	to	
+15	VB	win	
+16	''	"	
+
+131174387540951040
+0	''	“	
+1	USR	@iGotDA_BODY	
+2	VBD	Lived	
+3	IN	In	
+4	NNP	Memphis	
+5	PRP$	My	
+6	JJ	Whole	
+7	NN	Life	
+8	,	,	
+9	CC	And	
+10	NNP	Ian	
+11	RB	Never	
+12	VBN	Been	
+13	TO	To	
+14	NNP	Voodoo	
+15	NNP	Village	
+16	.	!	
+17	''	”	
+
+156168706429427715
+0	USR	@bamfnicole	
+1	UH	haha	
+2	PRP	I	
+3	VBD	didn't	
+4	VB	see	
+5	DT	that	
+6	NN	response	
+7	IN	before	
+8	DT	the	
+9	NN	direct	
+10	NN	message	
+11	CC	and	
+12	VBD	thought	
+13	PRP	it	
+14	VBD	was	
+15	NN	public	
+16	.	.	
+17	VB	Fail	
+18	UH	;(	
+19	CC	but	
+20	UH	haha	
+21	UH	okayy	
+22	.	!	
+
+133105084329500672
+0	USR	@roseofhurlo	
+1	UH	OK	
+2	.	.	
+3	NN	Tomorrow	
+4	PRP	you	
+5	VBP	take	
+6	DT	the	
+7	CD	5.30	
+8	NN	shift	
+9	.	.	
+10	PRP	I'll	
+11	VB	get	
+12	RP	up	
+13	IN	at	
+14	CD	7	
+15	IN	for	
+16	DT	some	
+17	JJ	ruthless	
+18	NN	editing	
+19	.	.	
+
+155101532566728705
+0	NNP	Lil	
+1	NNS	niggas	
+2	IN	in	
+3	PRP$	my	
+4	NN	brother	
+5	NN	school	
+6	VBG	trying	
+7	TO	to	
+8	VB	bully	
+9	PRP	him	
+10	CC	and	
+11	CD	one	
+12	IN	of	
+13	PRP	em	
+14	IN	on	
+15	NN	highschool	
+16	.	.	
+17	UH	Smh	
+18	VBG	looking	
+19	IN	like	
+20	PRP	I	
+21	MD	will	
+22	VB	be	
+23	PRP$	their	
+24	NN	tomorrow	
+25	.	.	
+26	VB	fuck	
+27	NN	school	
+
+156928999384285184
+0	USR	@Heather37323	
+1	NNP	Bryan	
+2	CC	and	
+3	PRP	I	
+4	VBD	saw	
+5	PRP	you	
+6	IN	on	
+7	NN	TV	
+8	.	!	
+
+150009299438026754
+0	VB	Purchase	
+1	PRP$	your	
+2	NNS	seats	
+3	TO	to	
+4	VB	see	
+5	DT	the	
+6	NNP	Patriots	
+7	RB	here	
+8	URL	http://t.co/RjivbHCp	
+
+141696541235752960
+0	''	“	
+1	USR	@TeamBekka	
+2	:	:	
+3	PRP	I	
+4	RB	just	
+5	VBD	voted	
+6	IN	for	
+7	NNP	Ian	
+8	NNP	Somerhalder	
+9	HT	#tvdramaactor	
+10	HT	#PeoplesChoice	
+11	.	.	
+12	VB	Retweet	
+13	TO	to	
+14	VB	vote	
+15	URL	http://t.co/Q0KjpsL9	
+16	IN	via	
+17	USR	@peopleschoice	
+18	''	”	
+
+153223558133321728
+0	PRP$	your	
+1	NN	voice	
+2	VBD	made	
+3	PRP$	my	
+4	JJ	new	
+5	NN	year	
+6	UH	♥	
+
+147560706672300032
+0	JJ	Irritating	
+1	NN	bunch	
+2	IN	of	
+3	NNP	china	
+4	NNS	people	
+5	IN	on	
+6	DT	the	
+7	NN	bus	
+8	.	.	
+9	UH	-.-	
+
+146562563033923584
+0	WRB	How	
+1	TO	To	
+2	VB	Lose	
+3	NNP	Weight	
+4	NNP	Quick	
+5	NNP	After	
+6	NNP	Pregnancy	
+7	URL	http://t.co/uvSH8Vxf	
+
+145386702708539393
+0	URL	http://t.co/n7fLWISR	
+1	WRB	How	
+2	TO	to	
+3	VB	Talk	
+4	TO	to	
+5	DT	a	
+6	NNP	Widow	
+
+140390401516384256
+0	RT	RT	
+1	USR	@QuotesGeek	
+2	:	:	
+3	RB	Always	
+4	VB	have	
+5	PRP$	your	
+6	NN	stuff	
+7	WRB	when	
+8	PRP	you	
+9	VBP	need	
+10	PRP	it	
+11	IN	with	
+12	USR	@Dropbox	
+13	.	.	
+14	CD	2GB	
+15	NN	account	
+16	VBZ	is	
+17	JJ	free	
+18	.	!	
+19	URL	http://t.co/clhZfz0w	
+
+129885758680076288
+0	USR	@ffionface	
+1	VB	dye	
+2	PRP$	our	
+3	JJ	tanyas	
+4	NN	hair	
+5	UH	plz	
+6	.	!?	
+
+160095136762707968
+0	PRP	I	
+1	VBP	gotta	
+2	VB	make	
+3	PRP$	my	
+4	NN	way	
+5	TO	to	
+6	DT	the	
+7	NNP	sprint	
+8	NN	store	
+9	CC	n	
+10	PRP	I	
+11	RB	really	
+12	VB	don't	
+13	VB	wana	
+14	VB	go	
+15	IN	outside	
+16	PRP	ima	
+17	VB	try	
+18	TO	to	
+19	VB	get	
+20	NNS	moms	
+21	TO	to	
+22	VB	give	
+23	PRP	me	
+24	DT	a	
+25	NN	ride	
+26	UH	lol	
+
+160555277098287104
+0	RT	RT	
+1	USR	@Jaytit	
+2	:	:	
+3	JJ	Bored	
+4	IN	as	
+5	VB	fuck	
+
+139758114307186688
+0	VBZ	Is	
+1	NN	today	
+2	NNS	thanks	
+3	VBG	giving	
+4	.	?	
+5	:	:	
+6	UH	L	
+
+146297537559658498
+0	RT	RT	
+1	USR	@Comedyscreen	
+2	:	:	
+3	NNP	Black	
+4	NNP	List	
+5	CD	2011	
+6	:	:	
+7	DT	The	
+8	NNP	Top	
+9	CD	10	
+10	JJS	hottest	
+11	NNS	scripts	
+12	IN	in	
+13	NNP	Hollywood	
+14	URL	http://t.co/pBoscUdg	
+
+144277841771630592
+0	NNP	O	
+1	RT	RT	
+2	USR	@Fatt_Stacks	
+3	:	:	
+4	NN	L	
+5	RT	RT	
+6	USR	@YSLaurenT_	
+7	:	:	
+8	NN	Doesn't	
+9	VB	look	
+10	IN	like	
+11	DT	any	
+12	NN	QT	
+13	NN	tonight	
+14	.	.	
+15	CD	4	
+16	NNS	days	
+17	CD	7	
+18	NNS	hrs	
+19	CC	and	
+20	CD	11mins	
+21	UH	😔	
+
+134146072514801664
+0	RT	RT	
+1	USR	@run4pasigriver	
+2	:	:	
+3	USR	@yengunplugged	
+4	UH	Hi	
+5	.	.	
+6	UH	Pls	
+7	VB	help	
+8	PRP	us	
+9	RT	RT	
+10	USR	@ABSCBNStore	
+11	VBP	are	
+12	VBG	selling	
+13	JJ	limited	
+14	NN	edition	
+15	-LRB-	(	
+16	NN	cont	
+17	-RRB-	)	
+18	URL	http://t.co/0ZGUrQdr	
+
+142083965195534337
+0	USR	@alexvitlin	
+1	NNP	Donald	
+2	NNP	Rumsfeld	
+3	.	.	
+4	VB	Look	
+5	WP	what	
+6	DT	that	
+7	VBD	did	
+8	TO	to	
+9	DT	the	
+10	NN	world	
+11	.	.	
+
+152820674539425792
+0	USR	@igctrance	
+1	UH	wow	
+2	.	!	
+3	UH	O.o	
+
+158163878071631873
+0	PRP	I	
+1	VBP	Feel	
+2	JJ	Gud	
+3	:	.....	
+
+141011254855729153
+0	DT	That	
+1	NN	moment	
+2	WRB	when	
+3	NN	someone	
+4	VBZ	tells	
+5	PRP	you	
+6	IN	that	
+7	PRP	you	
+8	CC	and	
+9	PRP	him	
+10	MD	would	
+11	VB	look	
+12	JJ	good	
+13	RB	together	
+14	.	.	
+15	UH	♥	
+
+158803102630293505
+0	USR	@TuRbii	
+1	UH	Yes	
+2	.	.	
+3	PRP	I'm	
+4	RB	also	
+5	VBG	gong	
+6	TO	to	
+7	VB	Eastside's	
+8	NN	pre-show	
+9	NN	rehearsal	
+10	,	,	
+11	CC	and	
+12	VBG	trying	
+13	TO	to	
+14	VB	go	
+15	TO	to	
+16	PRP$	yours	
+17	IN	as	
+18	RB	well	
+19	.	.	
+20	HT	#TeamDiddleHype	
+21	HT	#ReppinHomeTeams	
+
+168678696008429568
+0	USR	@GavenAng	
+1	UH	LOL	
+2	WRB	where	
+3	VBD	got	
+4	.	??	
+
+196481244236742656
+0	PRP	I'm	
+1	IN	in	
+2	CC	and	
+3	RP	out	
+4	DT	the	
+5	NN	pussy	
+6	HT	#DriveThru	
+7	.	!!!	
+
+177684399402401794
+0	USR	@MaliiBo	
+1	USR	@_tee_aanal	
+2	VBP	miss	
+3	PRP	y'all	
+4	RB	too	
+5	RB	just	
+6	VBG	gonna	
+7	VB	leave	
+8	PRP	me	
+9	RP	out	
+10	DT	the	
+11	JJ	damn	
+12	NN	convo	
+13	NNS	dicks	
+14	UH	lol	
+
+200195120056893441
+0	VBG	Making	
+1	HT	#Travel	
+2	DT	a	
+3	NN	Reality	
+4	URL	http://t.co/r4IWjn4B	
+5	USR	@DenverEric	
+6	HT	#yakezie	
+7	HT	#lifestyle	
+8	HT	#budget	
+9	HT	#travelhacking	
+
+187369374762549248
+0	NNS	Griners	
+1	DT	a	
+2	NN	boss	
+
+178826306933366784
+0	NNP	Des	
+1	NNS	hoes	
+2	VBP	don't	
+3	VBP	wanna	
+4	VB	talk	
+5	PRP	they	
+6	VBP	wanna	
+7	VB	fuck	
+8	DT	that's	
+9	WRB	y	
+10	PRP	they	
+11	VBP	give	
+12	PRP	they	
+13	NNS	numbers	
+14	RP	out	
+15	RB	so	
+16	JJ	easy	
+
+173943327606059008
+0	RT	RT	
+1	USR	@ReaITygaTyga	
+2	:	:	
+3	HT	#Retweet	
+4	IN	if	
+5	PRP$	your	
+6	JJ	biggest	
+7	NN	fear	
+8	VBZ	is	
+9	VBG	losing	
+10	PRP$	your	
+11	NN	MOM	
+12	.	!	
+
+192310847723409409
+0	PRP	I	
+1	VBP	need	
+2	TO	to	
+3	VB	stop	
+4	VBG	being	
+5	RB	so	
+6	JJ	realistic	
+7	.	!!	
+8	HT	#being	
+9	DT	a	
+10	NN	dreamer	
+11	RB	once	
+12	IN	in	
+13	DT	a	
+14	NN	while	
+15	VBZ	is	
+16	JJ	such	
+17	DT	a	
+18	NN	blessing	
+19	DT	some	
+20	NNS	times	
+
+192849769549406209
+0	RT	RT	
+1	USR	@iBeenHadSOLE	
+2	:	:	
+3	DT	Thats	
+4	WRB	why	
+5	NNP	Jamie	
+6	VBZ	IS	
+7	DT	THAT	
+8	NN	NIGGA	
+9	.	!	
+10	UH	Lol	
+
+198962334272724992
+0	RT	RT	
+1	USR	@BrunoMars	
+2	:	:	
+3	NNS	Thugs	
+4	VBP	don't	
+5	VB	say	
+6	DT	that	
+7	NN	shit	
+8	NN	cray	
+9	:	....	
+10	NNS	Thugs	
+11	VBP	say	
+12	PRP	That's	
+13	RB	so	
+14	NNP	Raven	
+
+189470565852127232
+0	USR	@BeyonceFan1981	
+1	PRP	I'm	
+2	JJ	allergic	
+3	CC	and	
+4	PRP	they	
+5	VBP	taste	
+6	JJ	horrible	
+
+195840736040726528
+0	PRP	we	
+1	VBD	were	
+2	IN	like	
+3	''	"	
+4	UH	damm	
+5	WP	who	
+6	VBZ	is	
+7	DT	that	
+8	:	..	
+9	NNP	Shorty	
+10	JJ	bad	
+11	.	!	
+12	''	"	
+13	UH	ctfu	
+
+182985903197790210
+0	PRP	Im	
+1	VBN	prepared	
+2	,	,	
+3	CC	but	
+4	VB	wait	
+5	IN	for	
+6	NNP	eran's	
+7	RT	RT	
+8	USR	@lalafadilaa	
+9	RB	finally	
+10	VBN	done	
+11	IN	with	
+12	PRP$	my	
+13	NN	outline	
+14	:	..	
+15	DT	the	
+16	NN	rest	
+17	PRP	it's	
+18	PRP$	your	
+19	NN	turn	
+20	NNS	gaes	
+21	USR	@windwnda	
+22	CC	n	
+23	USR	@abcderan	
+24	UH	:)	
+
+172878792359030786
+0	VBG	Feelin	
+1	IN	like	
+2	NN	poop	
+3	:	..	
+
+168187320837742592
+0	RT	RT	
+1	USR	@LoveDrGuadalupe	
+2	:	:	
+3	PRP	I	
+4	VBP	feel	
+5	IN	like	
+6	DT	a	
+7	NN	bum	
+8	,	,	
+9	PRP	I	
+10	VBP	look	
+11	IN	like	
+12	DT	a	
+13	NN	bum	
+14	,	,	
+15	PRP	I	
+16	VBP	smell	
+17	IN	like	
+18	DT	a	
+19	NN	bum	
+20	,	,	
+21	PRP	I	
+22	VBP	am	
+23	JJ	hungry	
+24	IN	like	
+25	DT	a	
+26	NN	bum	
+27	.	.	
+28	PRP	I	
+29	VBP	am	
+30	RB	just	
+31	DT	a	
+32	JJ	fucking	
+33	NN	bum	
+34	.	.	
+
+181317400803815424
+0	JJ	Happy	
+1	NNP	Mothers	
+2	NNP	Day	
+3	.	!	
+4	HT	#bigmummalove	
+
+197458760241922048
+0	NNP	Biscuit	
+1	JJ	dry	
+2	IN	as	
+3	NN	hell	
+4	UH	>.<	
+
+193499404253134849
+0	DT	The	
+1	JJ	current	
+2	NN	administration	
+3	VBZ	says	
+4	PRP	it	
+5	VBZ	does	
+6	RB	not	
+7	VB	have	
+8	TO	to	
+9	VB	go	
+10	TO	to	
+11	NNP	Congress	
+12	TO	to	
+13	VB	declare	
+14	NN	war	
+15	IN	if	
+16	NNS	Americans	
+17	VBP	are	
+18	RB	not	
+19	IN	in	
+20	DT	the	
+21	NN	war	
+22	NN	zone	
+23	.	.	
+
+184415804304007168
+0	NNS	Dreams	
+1	VBP	are	
+2	JJ	hopeless	
+3	NNS	aspirations	
+4	,	,	
+5	IN	in	
+6	VBZ	hopes	
+7	IN	of	
+8	VBG	becoming	
+9	JJ	true	
+10	:	-	
+11	VB	Believe	
+12	IN	in	
+13	PRP	yourself	
+14	,	,	
+15	DT	the	
+16	NN	rest	
+17	VBZ	is	
+18	RP	up	
+19	TO	to	
+20	HT	#MEANDYOU	
+21	.	.	
+
+202093273219743744
+0	USR	@carolin_chrissy	
+1	UH	thanks	
+2	UH	darling	
+3	.	.	
+4	PRP	I	
+5	VBP	don't	
+6	RB	even	
+7	VB	wear	
+8	JJ	red	
+9	NNS	bottoms	
+10	IN	because	
+11	NNS	heels	
+12	RB	too	
+13	JJ	high	
+14	CC	and	
+15	PRP	I'm	
+16	RB	already	
+17	JJ	tall	
+18	CC	but	
+19	DT	those	
+20	PRP	I	
+21	VBD	needed	
+22	TO	to	
+23	VB	have	
+24	.	.	
+
+190399373211992064
+0	USR	@al9aaaad8	
+1	VBZ	Looks	
+2	IN	like	
+3	NNP	F1	
+4	MD	will	
+5	VB	go	
+6	RB	ahead	
+7	CC	but	
+8	PRP	you	
+9	CC	&	
+10	PRP	I	
+11	VBP	know	
+12	IN	that	
+13	DT	the	
+14	NN	Opposition	
+15	NNS	lads	
+16	MD	will	
+17	RB	not	
+18	VB	go	
+19	RP	down	
+20	IN	without	
+21	DT	a	
+22	NN	fight	
+23	.	.	
+24	PRP	Im	
+25	JJ	afraid	
+26	PRP	it	
+27	MD	will	
+28	VB	get	
+29	JJ	bad	
+
+194105514727186432
+0	''	"	
+1	USR	@Queen_Jochebed	
+2	:	:	
+3	USR	@MrTylerDoggett	
+4	RB	only	
+5	IN	cause	
+6	JJ	black	people NNS|people_rule
+7	NNS	people	people_rule
+8	NNS	churches	
+9	VBP	go	
+10	JJ	strong	
+11	IN	till	
+12	CD	2	
+13	UH	lol	
+14	''	"	
+15	NN	chill	
+16	UH	hahaha	
+17	.	!!!	
+
+167460670189740032
+0	USR	@Korentine_	
+1	UH	Omg	
+2	NNP	Luke	
+3	PRP	you	
+4	VBP	need	
+5	TO	to	
+6	VB	watch	
+7	VB	remember	
+8	PRP	me	
+9	.	.	
+10	PRP	I	
+11	RB	literally	
+12	VBD	was	
+13	VBG	balling	
+14	.	.	
+15	PRP	You'd	
+16	VBP	love	
+17	PRP	it	
+18	.	.	
+
+182277397289254912
+0	VBP	Wish	
+1	PRP	I	
+2	VBD	was	
+3	IN	at	
+4	JJ	odd	
+5	NN	future	
+6	NN	rn	
+7	UH		
+
+180305260638777344
+0	WRB	when	
+1	NNS	poeple	
+2	VBP	don't	
+3	VB	know	
+4	WRB	how	
+5	TO	to	
+6	VBD	told	
+7	DT	a	
+8	NN	texting	
+9	NN	conversation	
+10	UH	<<	
+
+181104988414689280
+0	UH	Yea	
+1	UH	*	
+2	NN	fist	
+3	NNS	pumps	
+4	UH	*	
+5	UH	mhmm	
+
+188830166838026241
+0	DT	This	
+1	NN	tweet	
+2	VBZ	is	
+3	TO	to	
+4	VB	get	
+5	PRP	me	
+6	RP	off	
+7	IN	of	
+8	CD	666	
+9	NNS	tweets	
+10	:	...	
+11	VB	Eat	
+12	PRP	it	
+13	NNP	Satan	
+14	.	!	
+15	NNP	Jesus	
+16	VBZ	is	
+17	JJ	alive	
+18	CC	and	
+19	PRP	you	
+20	VBP	lose	
+21	.	!!!	
+
+171672850539884544
+0	USR	@HDstateofMind	
+1	WRB	wat	
+2	NN	channle	
+
+191474746662207489
+0	NN	Discouragement	
+1	MD	could	
+2	VB	set	
+3	IN	in	
+4	RB	now	
+5	,	,	
+6	VBG	dampening	
+7	DT	the	
+8	NNS	fires	
+9	IN	of	
+10	PRP$	your	
+11	PRP	i	
+12	:	...	
+13	JJR	More	
+14	IN	for	
+15	NNP	Pisces	
+16	URL	http://t.co/HpTt2c0r	
+
+173434768610967552
+0	USR	@room_downstairs	
+1	WRB	where	
+2	VBD	did	
+3	PRP	you	
+4	VBP	ask	
+5	.	?	
+6	PRP	We	
+7	VBP	are	
+8	RB	very	
+9	VB	prompt	
+10	IN	with	
+11	NNS	replies	
+12	.	.	
+13	IN	If	
+14	PRP	you	
+15	VBP	want	
+16	TO	to	
+17	VB	DM	
+18	PRP$	your	
+19	NN	name	
+20	CC	or	
+21	NN	email	
+22	PRP	we	
+23	MD	can	
+24	VB	check	
+25	RB	right	
+26	RB	now	
+27	.	.	
+
+194825370883723265
+0	USR	@RachelBaiocco	
+1	WRB	where	
+2	VBP	do	
+3	PRP	you	
+4	NN	park	
+5	NNS	cars	
+6	DT	that	
+7	NNS	people	
+8	VBP	are	
+9	RB	just	
+10	VBG	craping	
+11	IN	in	
+12	DT	the	
+13	NN	street	
+14	.	?	
+15	HT	#whatthehell	
+
+176767327306657792
+0	UH	Gn8	
+1	JJ	worldwide	
+
+181577292533870595
+0	VB	Fuck	
+1	PRP	you	
+2	NN	mode	
+3	RB	right	
+4	RB	now	
+5	.	.	
+
+178615233131192321
+0	RT	RT	
+1	USR	@VINNYGUADAGNINO	
+2	:	:	
+3	NNS	There's	
+4	DT	a	
+5	JJ	valuable	
+6	VB	lessen	
+7	TO	to	
+8	VB	be	
+9	VBN	learned	
+10	RB	here	
+11	NNS	kids	
+12	.	.	
+13	WRB	When	
+14	NNS	things	
+15	VB	get	
+16	JJ	rough	
+17	:	.....	
+18	VB	buy	
+19	DT	a	
+20	NN	stripper	
+21	NN	pole	
+22	HT	#Jerzathon	
+
+186639926291468290
+0	WRB	Whenn	
+1	PRP	i	
+2	VBP	seee	
+3	JJ	uglyy	
+4	NNS	boys	
+5	IN	that	
+6	PRP	i	
+7	VBP	think	
+8	VBZ	is	
+9	JJ	cutee	
+10	,	,	
+11	PRP	i	
+12	VBP	bee	
+13	IN	likee	
+14	UH	mhmmmm	
+15	PRP	he	
+16	VBZ	isss	
+17	JJ	cuteeeee	
+18	.	.	
+19	CC	&&	
+20	PRP$	my	
+21	NN	momma	
+22	NN	holla	
+23	RP	out	
+24	NN	ion	
+25	VB	kno	
+26	UH	wth	
+27	PRP	yu	
+28	VBG	looking	
+29	IN	at	
+30	UH	lol	
+
+200662378034114560
+0	:	:	
+1	''	'	
+2	NNP	-D	
+3	NN	face	
+4	IN	that	
+5	VBZ	grinds	
+6	RT	RT	
+7	USR	@Retro__O	
+8	:	:	
+9	UH	Ladies-	
+10	USR	@vandalSwagg	
+11	VBZ	gives	
+12	NN	ruff-rider	
+13	NN	head	
+14	.	.	
+
+186597933087592448
+0	RT	RT	
+1	USR	@jdbieber_ftw	
+2	:	:	
+3	PRP	he	
+4	VBZ	looks	
+5	RB	so	
+6	VBN	crushed	
+7	UH	lmao	
+8	URL	http://t.co/4BwoGzfk	
+
+196102314099089409
+0	VBD	Had	
+1	CD	3	
+2	NNS	cans	
+3	IN	of	
+4	NNP	Pepsi	
+5	.	!	
+6	PRP	I	
+7	VBD	was	
+8	NN	thirst	
+9	NN	af	
+
+169798281747103745
+0	NNP	Serge	
+1	:	:	
+2	DT	moe	
+3	PRP	imma	
+4	RB	mf'n	
+5	HT	#crank	
+6	NNP	Geo	
+7	:	:	
+8	UH	yo	
+9	UH	azz	
+10	UH	ah	
+11	JJ	goofy	
+12	.	!!....	
+13	NNP	Geo	
+14	CC	and	
+15	NNP	serge	
+16	NN	fight	
+17	NN	fa	
+18	CD	2	
+19	NNS	mins	
+20	:	...	
+21	DT	That	
+22	VB	be	
+23	DT	the	
+24	JJS	funniest	
+25	RB	ever	
+
+188718191399276544
+0	PRP	I	
+1	VBD	had	
+2	PRP$	my	
+3	JJ	old	
+4	NN	Bitch	
+5	VB	go	
+6	RB	bck	
+7	TO	2	
+8	NN	School	
+9	TO	2	
+10	VB	get	
+11	PRP	her	
+12	NNP	Masters	
+13	:	...	
+
+188030992328572928
+0	NN	Home	
+1	JJ	sweet	
+2	NN	home	
+3	UH	:)	
+
+192473448352714753
+0	USR	@LondonTrustNone	
+1	JJ	Latee	
+2	NNP	ASS	
+3	NNP	Smh	
+4	PRP	U	
+5	MD	Shud	
+6	VB	Be	
+7	JJ	Ashamed	
+8	UH	Llss	
+9	''	'	
+
+174516361832316928
+0	RT	RT	
+1	USR	@kirkfranklin	
+2	:	:	
+3	DT	The	
+4	NN	word	
+5	VBZ	teaches	
+6	PRP	us	
+7	TO	to	
+8	VB	turn	
+9	DT	the	
+10	JJ	other	
+11	NN	cheek	
+12	:	;	
+13	CC	but	
+14	PRP	it	
+15	MD	doesn't	
+16	VB	teach	
+17	PRP	you	
+18	TO	to	
+19	VB	confuse	
+20	NN	meek	
+21	IN	for	
+22	JJ	weak	
+23	.	.	
+24	PRP	You're	
+25	NNP	Christian	
+26	:	...	
+27	RB	not	
+28	:	...	
+
+184707983907897347
+0	RT	RT	
+1	USR	@Yo_Gurl_On_Fire	
+2	:	:	
+3	PRP	I	
+4	VBP	blow	
+5	NNS	supplies	
+6	RP	up	
+7	IN	in	
+8	DT	the	
+9	NN	air	
+10	RB	sometimes	
+11	VBG	saying	
+12	UH	ayoo	
+13	VB	take	
+14	IN	that	
+15	NNP	Cato	
+
+166759906815377408
+0	PRP$	My	
+1	NN	definition	
+2	IN	of	
+3	DT	a	
+4	JJ	hot	
+5	NN	date	
+6	VBZ	includes	
+7	DT	a	
+8	JJ	delicious	
+9	NN	cup	
+10	IN	of	
+11	NN	tea	
+12	,	,	
+13	DT	a	
+14	RB	really	
+15	JJ	good	
+16	NN	book	
+17	CC	and	
+18	VBG	cuddling	
+19	IN	by	
+20	PRP	myself	
+21	IN	in	
+22	DT	the	
+23	NN	couch	
+24	.	.	
+
+170689462207119361
+0	RT	RT	
+1	USR	@JuicyJennaa	
+2	:	:	
+3	USR	@Dame_O_DewBaby	
+4	UH	aite	
+5	UH	bruh	
+6	UH	bruh	
+7	PRP	I	
+8	VBD	got	
+9	PRP	you	
+10	VBP	foue	
+
+167072189697368065
+0	RB	not	
+1	VBG	knowing	
+2	WP	what	
+3	TO	to	
+4	VB	do	
+5	UH	<<<<<	
+
+199749110377623554
+0	NNS	Nigguhs	
+1	VBD	Heard	
+2	PRP	Im	
+3	VBG	Gettin	
+4	NN	Money	
+5	RB	So	
+6	RB	Now	
+7	NNP	Dey	
+8	NNP	Creepin	
+9	NNP	Thru	
+10	:	..	
+
+179390814252830722
+0	JJ	First	
+1	JJ	serious	
+2	NN	attack	
+3	IN	by	
+4	NNP	Philadelphia	
+5	,	,	
+6	CC	but	
+7	DT	the	
+8	NNP	Timbers	
+9	NNP	D	
+10	VBD	got	
+11	DT	the	
+12	NN	ball	
+13	RP	out	
+14	.	.	
+
+191872652036673537
+0	USR	@KaylaLMitchell	
+1	PRP	we	
+2	VBP	are	
+3	RB	not	
+4	VBG	going	
+5	IN	because	
+6	IN	of	
+7	NN	rain	
+8	PRP	we	
+9	VBP	are	
+10	VBG	going	
+11	IN	on	
+12	NNP	Friday	
+13	:	..	
+
+197020505906225152
+0	NN	Watch	
+1	:	:	
+2	NNS	Rihannas	
+3	JJ	new	
+4	NN	music	
+5	NN	video	
+6	:	:	
+7	URL	http://t.co/sUxePfXO	
+
+183598682829094913
+0	JJ	Fucking	
+1	NNS	bitches	
+2	DT	all	
+3	DT	the	
+4	NN	time	
+5	PRP	i	
+6	VBP	give	
+7	PRP	em	
+8	NNP	Dick	
+9	PRP	im	
+10	IN	on	
+11	PRP$	dey	
+12	NN	mind	
+13	PRP	i	
+14	VBD	got	
+15	NNS	angels	
+16	NNS	demons	
+17	NNP	constantine	
+
+177974804824064000
+0	PRP	I	
+1	VBD	didn't	
+2	RB	even	
+3	VB	know	
+4	WP	what	
+5	DT	the	
+6	NNS	changes	
+7	VBD	were	
+8	:	...	
+9	UH	oh	
+10	UH	well	
+11	.	.	
+
+182030218578509824
+0	USR	@georgiameramo	
+1	WRB	how	
+2	VBD	was	
+3	NNP	paris	
+4	.	!?	
+5	UH	Xx	
+
+179039310765490176
+0	WRB	Why	
+1	VBP	aren't	
+2	PRP	I	
+3	JJ	tired	
+4	.	?	
+5	UH	-_-	
+
+198484603248451584
+0	''	“	
+1	USR	@Iamyungsmilez	
+2	NNP	BLUEROOM	
+3	MD	MAY	
+4	CD	19TH	
+5	NNS	FEMS	
+6	JJ	FREE	
+7	CC	AND	
+8	VB	DRINK	
+9	JJ	FREE	
+10	IN	TIL	
+11	CD	11:30	
+12	CD	$5	
+13	DT	ALL	
+14	NN	NIGHT	
+15	IN	BEHIND	
+16	NNP	WINN	
+17	NNP	DIXIE	
+18	IN	ON	
+19	NNP	PINEHILLS	
+20	NNP	ROAD	
+21	UH	LEGGOOO	
+22	''	”	
+
+182865598148116481
+0	WRB	Where	
+1	UH	tf	
+2	VBZ	is	
+3	NNP	nick	
+
+201703567944462336
+0	NN	Photoset	
+1	:	:	
+2	URL	http://t.co/ADWfZJvy	
+
+172069275190820864
+0	RT	RT	
+1	USR	@MISSMYA	
+2	:	:	
+3	''	"	
+4	PRP	It	
+5	RB	always	
+6	VBZ	seems	
+7	JJ	impossible	
+8	IN	until	
+9	PRP	it's	
+10	VBN	done	
+11	.	.	
+12	''	"	
+13	:	-	
+14	NNP	Nelson	
+15	NNP	Mandela	
+
+194552682147610625
+0	VB	Try	
+1	VBG	cooking	
+2	NN	chili	
+3	IN	in	
+4	PRP	it	
+5	RT	RT	
+6	USR	@Mr_UnLadyLike	
+7	:	:	
+8	DT	this	
+9	NN	wind	
+10	VBZ	is	
+11	JJ	serious	
+
+186175679690326016
+0	UH	DAMMIT	
+1	UH	TENTEN	
+2	.	!!!	
+3	MD	Can't	
+4	PRP	you	
+5	RB	just	
+6	VB	let	
+7	DT	a	
+8	NN	ninja	
+9	NN	pee	
+10	IN	in	
+11	NN	peace	
+12	.	??!!?!?!?!?	
+13	URL	http://t.co/lz8Y9iUv	
+
+171298244377325569
+0	VBG	Owning	
+1	PRP$	Your	
+2	NN	Craft	
+3	IN	in	
+4	DT	the	
+5	NNP	Fitness	
+6	NNP	Business	
+7	NNP	-\	
+8	URL	http://t.co/hTizU4q9	
+9	HT	#Fitness	
+10	NN	BodyBuilding	
+11	HT	#Professionals	
+12	HT	#Vancouver	
+
+175658978628472833
+0	RT	RT	
+1	USR	@mizs_santucci	
+2	:	:	
+3	RT	RT	
+4	USR	@CAPO_BELLE	
+5	:	:	
+6	NN	Blood	
+7	VBZ	Makes	
+8	PRP	You	
+9	VBD	Related	
+10	.	.	
+11	NN	Loyalty	
+12	VBZ	Makes	
+13	PRP	You	
+14	NNP	Family	
+15	.	.	
+
+190961171094970368
+0	USR	@SamHulick	
+1	PRP	I	
+2	VBP	have	
+3	NNP	Artrage	
+4	WDT	which	
+5	VBZ	is	
+6	RB	super	
+7	JJ	cheap	
+8	CC	and	
+9	MD	may	
+10	VB	do	
+11	WP	what	
+12	PRP	you	
+13	VBP	want	
+14	.	.	
+15	PRP	I'm	
+16	DT	no	
+17	NN	artist	
+18	CC	but	
+19	JJ	worth	
+20	DT	a	
+21	JJ	quick	
+22	NN	look	
+23	IN	at	
+24	CD	$50ish	
+25	.	.	
+
+175296179620429824
+0	USR	@KarenAlloy	
+1	DT	that	
+2	WRB	how	
+3	JJ	long	
+4	PRP$	my	
+5	NNS	pubes	
+6	VBP	are	
+7	.	?	
+8	PRP	I'm	
+9	VBG	gonna	
+10	VB	go	
+11	VB	trim	
+12	PRP	them	
+13	RB	too	
+14	.	!	
+
+197660925803773952
+0	NNP	Strength	
+1	.	.	
+2	NN	Courage	
+3	.	.	
+4	NN	Determination	
+5	.	.	
+6	NN	Pride	
+7	.	.	
+8	NN	Passion	
+9	.	.	
+10	NN	Belief	
+11	.	.	
+12	HT	#ycfc	
+
+198650362155110401
+0	PRP	I'm	
+1	JJ	mad	
+2	PRP	he	
+3	VBZ	wants	
+4	DT	some	
+5	IN	of	
+6	PRP$	my	
+7	NNS	eggrolls	
+8	PRP	I	
+9	RB	just	
+10	VBD	spent	
+11	CD	$2.50	
+12	IN	on	
+13	PRP	them	
+
+201362738868518912
+0	USR	@theSilentTruth1	
+1	UH	Amen	
+2	,	,	
+3	UH	Hallelujah	
+4	VB	thank	
+5	PRP	You	
+6	NNP	Jesus	
+7	.	!	
+8	UH	:)	
+
+183846150791630848
+0	USR	@Reybot	
+1	JJ	10th	
+2	:	...	
+3	DT	that	
+4	JJ	random	
+5	NNS	chicks	
+6	JJ	nasty	
+7	NN	ass	
+8	NN	breath	
+9	UH	:-)	
+
+169277709896261635
+0	NNP	Former	
+1	NNP	Villarreal	
+2	CC	and	
+3	NNP	Panathinaikos	
+4	NN	boss	
+5	NNP	Victor	
+6	NNP	Munoz	
+7	NN	set	
+8	IN	for	
+9	NNP	Al	
+10	NNP	Ittihad	
+11	NN	post	
+12	URL	http://t.co/d9SN0ieQ	
+
+207169085547614208
+0	RT	RT	
+1	USR	@jrockfor3	
+2	:	:	
+3	IN	About	
+4	TO	to	
+5	VB	crush	
+6	DT	this	
+7	NNP	Denny's!!!!!!	
+
+208625968640831488
+0	USR	@ZachVall	
+1	USR	@daniellecroce	
+2	UH	nah	
+3	PRP	we	
+4	VBD	thought	
+5	IN	of	
+6	PRP	it	
+7	DT	a	
+8	JJ	few	
+9	NNS	days	
+10	RB	ago	
+
+211485875870253056
+0	PRP	I	
+1	VBP	wonder	
+2	WRB	how	
+3	JJ	much	
+4	NN	isit	
+5	JJ	original	
+6	NNS	vans	
+7	NN	t-shirt	
+8	CD	$42	
+9	WRB	when	
+10	VBZ	there's	
+11	DT	a	
+12	NN	sale	
+13	.	??	
+14	CD	$20	
+15	.	?	
+16	UH	:D	
+
+210454303733850112
+0	PRP	I'm	
+1	VBG	saving	
+2	NN	gas	
+3	NN	today	
+
+218905066894147584
+0	DT	This	
+1	VBZ	is	
+2	RBR	more	
+3	IN	about	
+4	NN	storm	
+5	IN	than	
+6	NN	baseball	
+7	,	,	
+8	CC	but	
+9	RB	here's	
+10	PRP$	your	
+11	NN	recap	
+12	IN	of	
+13	NNP	Potomac's	
+14	CD	4-1	
+15	NN	victory	
+16	IN	in	
+17	NN	weather-shortened	
+18	CD	7	
+19	NNS	innings	
+20	URL	http://t.co/7k8u7LgC	
+
+218606554184826881
+0	RT	RT	
+1	USR	@mzmalynda	
+2	:	:	
+3	PRP	I'm	
+4	JJ	sure	
+5	.	!!	
+6	USR	@EatMyDiamonds	
+7	PRP	U	
+8	VBD	got	
+9	DT	No	
+10	NN	time	
+11	IN	4the	
+12	NNP	Drama	
+13	.	.	
+14	VB	Keep	
+15	PRP	It	
+16	VBG	Moving	
+17	NNP	Boo	
+18	.	!	
+
+208054939321253889
+0	USR	@_MyHipsDontLie_	
+1	PRP	You	
+2	MD	would	
+3	VB	have	
+4	VBD	had	
+5	CD	1,987,001	
+6	NNS	followers	
+7	IN	if	
+8	PRP	you	
+9	VBD	did	
+10	UH	<3	
+11	UH	lol	
+
+204062054418620416
+0	CC	bt	
+1	PRP	I	
+2	VBP	hate	
+3	VBG	bein	
+4	JJ	sick	
+5	RB	even	
+6	RBR	more	
+
+214003490102587396
+0	NNP	Rihanna	
+1	VBD	changed	
+2	PRP	her	
+3	DT	all	
+4	NN	style	
+5	PRP	she	
+6	VBD	was	
+7	NN	nothing	
+8	IN	like	
+9	PRP	she	
+10	VBZ	is	
+11	RB	now	
+
+209864656049815553
+0	NNP	Tessa	
+1	RB	really	
+2	VBP	stole	
+3	DT	all	
+4	RB	then	
+5	NNS	people's	
+6	NN	food	
+7	.	.	
+
+216146238301683712
+0	USR	@wejustlove1D_	
+1	UH	yay	
+2	.	!	
+3	UH	Thanyou	
+4	RB	so	
+5	RB	much	
+6	.	!	
+7	RB	Much	
+8	VBP	love	
+9	TO	to	
+10	PRP	you	
+11	.	!	
+12	UH	xxxx	
+
+206174939089338371
+0	USR	@Tj_Slab19	
+1	IN	Like	
+2	PRP	I	
+3	VBD	said	
+4	''	"	
+5	VBD	got	
+6	PRP	me	
+7	VBD	fucked	
+8	RP	up	
+9	''	"	
+10	DT	that	
+11	RB	ain't	
+12	JJ	true	
+13	IN	about	
+14	PRP	em	
+15	DT	all	
+
+211785915587239936
+0	CD	20	
+1	NNS	DAYS	
+2	VBD	LEFT	
+3	IN	TILL	
+4	NNP	LONDON	
+5	UH	<3	
+
+215500332296445952
+0	VBG	Tumbling	
+1	NN	Today	
+
+214748532941398017
+0	USR	@DomsWildThings	
+1	UH	OOooo	
+2	PRP	you	
+3	VBD	made	
+4	PRP$	my	
+5	NN	head	
+6	NN	spin	
+7	IN	with	
+8	DT	that	
+9	CD	one	
+10	.	!	
+11	PRP	You	
+12	VBP	are	
+13	JJ	such	
+14	DT	a	
+15	JJ	cheeky	
+16	NN	studmuffin	
+17	.	!	
+
+215778607673511936
+0	NNP	June	
+1	CD	21	
+2	:	*	
+3	NN	sigh	
+4	UH	*	
+
+207263667253809152
+0	RT	RT	
+1	USR	@marleemou	
+2	:	:	
+3	USR	@JohnsHNIC	
+4	PRP	I'll	
+5	RB	literally	
+6	VB	be	
+7	RB	there	
+8	IN	at	
+9	CD	7:07	
+10	.	.	
+11	UH	:D	
+
+217415883746840576
+0	RT	RT	
+1	USR	@_KINGC	
+2	:	:	
+3	RT	RT	
+4	USR	@Bentleighaudi	
+5	:	:	
+6	PRP	I	
+7	MD	would	
+8	VBN	punched	
+9	NNS	flames	
+10	IN	outta	
+11	PRP	him	
+12	.	!	
+13	VB	Don't	
+14	VB	sing	
+15	TO	to	
+16	PRP	me	
+17	.	!!!!!	
+
+216651467459788800
+0	PRP	I	
+1	VBD	KNIFED	
+2	DT	A	
+3	NN	GUY	
+4	IN	THROUGH	
+5	DT	A	
+6	NN	WALL	
+
+203861331907059712
+0	HT	#YouGotTheWrongDavid	
+1	PRP	IT'S	
+2	NNP	T-E-N-N-A-N-T	
+3	,	,	
+4	RB	NOT	
+5	NNP	BECKHAM	
+6	.	!	
+
+217076749043908608
+0	RB	not	
+1	JJ	sure	
+2	IN	if	
+3	IN	out	
+4	IN	of	
+5	NN	happiness	
+6	CC	or	
+7	NN	sickness	
+
+213484067600089088
+0	USR	@1SmartiePants	
+1	WRB	when	
+2	VBP	have	
+3	PRP	u	
+4	RB	ever	
+5	VBD	said	
+6	UH	yes	
+7	UH	...?	
+
+206038590923350017
+0	NN	Tour	
+1	JJ	ready	
+2	.	.	
+3	URL	http://t.co/S2m5C80J	
+
+209136444881641472
+0	PRP$	My	
+1	NN	lady	
+2	IN	on	
+3	PRP$	her	
+4	NNP	Marilyn	
+5	URL	http://t.co/QZgFaK84	
+
+202191549768024064
+0	RT	RT	
+1	USR	@JaaChambers225	
+2	:	:	
+3	NNP	Lil	
+4	NNP	B	
+5	NN	verse	
+6	IN	on	
+7	JJ	Sorry	
+8	IN	4	
+9	DT	The	
+10	NN	Wait	
+11	NN	mixtape	
+12	HT	#WorstRapLineEver	
+
+213105619715104769
+0	NNP	Blu	
+1	NNP	Cantrell	
+2	RB	just	
+3	VBD	came	
+4	IN	on	
+5	PRP$	my	
+6	VBZ	Destiny's	
+7	NNP	Child	
+8	NNP	Pandora	
+9	.	.	
+10	VB	See	
+11	WP	what	
+12	VBZ	happens	
+13	WRB	when	
+14	PRP	you	
+15	VBP	leave	
+16	DT	the	
+17	NN	door	
+18	NN	open	
+19	.	?	
+20	UH	Getcho	
+21	NN	ass	
+22	RP	out	
+23	.	!!!	
+
+217895539881152512
+0	HT	#InMiddleSchool	
+1	USR	@TaeLovesMe_	
+2	VBD	slapped	
+3	DT	the	
+4	NN	shit	
+5	IN	out	
+6	IN	of	
+7	NN	tyeln	
+8	,	,	
+9	CC	n	
+10	DT	that	
+11	NN	nigga	
+12	RB	just	
+13	VBN	standed	
+14	RB	there	
+15	WRB	y	
+16	PRP$	his	
+17	NN	face	
+18	VBG	turnin	
+19	JJ	pink	
+20	.	!	
+
+210765332145647617
+0	NNP	FINN	
+1	VBZ	IS	
+2	RB	SLOWLY	
+3	VBG	KILLING	
+4	PRP	ME	
+5	UH	AH	
+6	UH	YAWAA	
+
+202923577610207234
+0	RT	RT	
+1	USR	@KPegula	
+2	:	:	
+3	NNP	Tyler	
+4	NNP	Ennis	
+5	CC	and	
+6	PRP$	his	
+7	JJ	broken	
+8	NN	stick	
+9	.	.	
+10	MD	Can't	
+11	VB	say	
+12	PRP	it's	
+13	VBG	gunna	
+14	VB	be	
+15	RB	as	
+16	JJ	popular	
+17	IN	as	
+18	DT	the	
+19	NNP	Gerbe	
+20	NN	video	
+21	RB	though	
+22	URL	http://t.co/cDvwsP59	
+
+212601476869128192
+0	USR	@GalacticLacquer	
+1	VBZ	is	
+2	VBG	having	
+3	DT	a	
+4	NN	giveaway	
+5	.	!	
+6	URL	http://t.co/vwtGvNl5	
+7	URL	http://t.co/vwtGvNl5	
+
+202828614239137792
+0	HT	#COUVERTURENOIRE	
+1	-LRB-	(	
+2	NNP	Black	
+3	NNP	Cover	
+4	-RRB-	)	
+5	NNP	Fiction&NonFiction	
+6	NNP	Stories	
+7	NNP	Collection	
+8	:	|	
+9	NNP	Indonesian	
+10	:	|	
+11	NNP	Rp	
+12	CD	33.700	
+13	,	,	
+14	:	-	
+15	:	|	
+16	URL	http://t.co/KDGa0gT1	
+17	URL	http://t.co/6HfbQtLu	
+

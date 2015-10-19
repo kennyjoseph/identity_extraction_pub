@@ -1,0 +1,6 @@
+gensim_model/
+processed_data/6mpaths.tsv
+processed_data/50mpaths2
+tmp/
+initial_annotation_experiment_data/
+pickled_random_tweets_for_labeling/
