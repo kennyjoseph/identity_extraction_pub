@@ -12,20 +12,25 @@ def run_baseline_on_conll_file(conll_filename, path_to_dicts, output_filename):
     
     ## for dictionary-based evaluation
     stopwords = get_stopwords()
-    
+
+    data = read_grouped_by_newline_file(conll_filename)
+    dependency_parses = []
+    for x in data:
+        dependency_parses.append([DependencyParseObject(o) for o in x])
+
     # get all the dictionaries together
     p_look_in_dict = partial(look_in_dict, sets=[stopwords], set_names=["stopwords"])
-    act_dict = p_look_in_dict(conll_filename, Dictionaries(os.path.join(path_to_dicts,'identities.txt')))
-    wordnet_dict = p_look_in_dict(conll_filename, Dictionaries(os.path.join(path_to_dicts,'wordnet_identities.txt')))
-    racial_dict = p_look_in_dict(conll_filename, Dictionaries(os.path.join(path_to_dicts,'racial_slur_identities.txt')))
-    national_dict = p_look_in_dict(conll_filename, Dictionaries(os.path.join(path_to_dicts,'national_identities.txt')))
-    job_dict = p_look_in_dict(conll_filename, Dictionaries(os.path.join(path_to_dicts,'job_identities.txt')))
+    act_dict = p_look_in_dict(dependency_parses, Dictionaries(os.path.join(path_to_dicts,'identities.txt')))
+    wordnet_dict = p_look_in_dict(dependency_parses, Dictionaries(os.path.join(path_to_dicts,'wordnet_identities.txt')))
+    racial_dict = p_look_in_dict(dependency_parses, Dictionaries(os.path.join(path_to_dicts,'racial_slur_identities.txt')))
+    national_dict = p_look_in_dict(dependency_parses, Dictionaries(os.path.join(path_to_dicts,'national_identities.txt')))
+    job_dict = p_look_in_dict(dependency_parses, Dictionaries(os.path.join(path_to_dicts,'job_identities.txt')))
     
     all_ds = Dictionaries(os.path.join(path_to_dicts,'*identities.txt'))
-    all_dict = p_look_in_dict(conll_filename,all_ds)
+    all_dict = p_look_in_dict(dependency_parses,all_ds)
     
     # get hte bootstrapped dictionary together
-    tw_distant_supervision_identity_dat = get_twitter_distant_supervision_identity_dat("../r/output_fil.tsv")
+    tw_distant_supervision_identity_dat = get_twitter_distant_supervision_identity_dat(BOOTSTRAPPED_DICTIONARY_LOCATION)
     stopwords = get_stopwords()
     twit_sets = []
     
@@ -54,10 +59,10 @@ def run_baseline_on_conll_file(conll_filename, path_to_dicts, output_filename):
     
     # test the bootstrapped dicts
     for twit_set, twit_set_id in twit_sets:
-        d = look_in_dict(conll_filename,sets=[twit_set,stopwords],set_names=["twit_identities", "stopwords"])
+        d = look_in_dict(dependency_parses,sets=[twit_set,stopwords],set_names=["twit_identities", "stopwords"])
         out = evaluate(.4, y, get_isin_array(d,obj_inds), obj_inds, all_random_ids, print_eval=True)
         output_file.write(tsn([twit_set_id+"_alone"] + out[1:]))
-        d = look_in_dict(conll_filename,
+        d = look_in_dict(dependency_parses,
                      all_ds,[twit_set, stopwords],[twit_set_id,"stopwords"])
         out = evaluate(.4, y, get_isin_array(d,obj_inds), obj_inds, all_random_ids, print_eval=True)
         output_file.write(tsn([twit_set_id+"_w_all"] + out[1:]))
@@ -67,9 +72,9 @@ def run_baseline_on_conll_file(conll_filename, path_to_dicts, output_filename):
 
 run_baseline_on_conll_file("processed_data/final_all_conll_w_all_features.txt",
                            IDENTITY_DICTIONARIES_LOCATION,
-                           'results/baselines_on_ferg_data.tsv')
+                           'results/baselines_on_ferg_data_2.tsv')
 
 run_baseline_on_conll_file("test_data/final_conll_pub.txt",
                            IDENTITY_DICTIONARIES_LOCATION,
-                           'results/baselines_on_public_data.tsv')
+                           'results/baselines_on_public_data_2.tsv')
 

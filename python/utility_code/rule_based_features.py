@@ -4,7 +4,8 @@ __author__ = 'kennyjoseph'
 
 from util import *
 from dependency_parse_handlers import *
-from dependency_parse_object import get_cleaned_text
+from twitter_dm.nlp.nlp_helpers import get_alternate_wordforms, get_cleaned_text
+from twitter_dm.identity_extraction.dependency_parse_handlers import *
 
 def get_dependency_parse_features(dep_parses):
     features_dict = {}
@@ -85,9 +86,15 @@ def look_in_dict(dep_parses,dictionary=None, sets=None,set_names=None):
 
         features = defaultdict(set)
 
+
         for i in range(len(dep_objs)):
-            for j in range(min(2,len(dep_objs) - i)):
+            for j in range(min(3,len(dep_objs) - i)):
                 dp_objs = dep_objs[i:(i+j+1)]
+                alt_forms = [get_alternate_wordforms(x.text,pos_tag=penn_to_wn(x.postag)) for x in dp_objs]
+                if any([not len(x) for x in alt_forms]):
+                    continue
+
+                # Do dictionary lookups
                 dp_obj = dp_objs[0] if len(dp_objs) == 1 else DependencyParseObject().join(dp_objs)
                 # Do dictionary lookups
                 word_forms = get_wordforms_to_lookup(dp_obj)
@@ -112,3 +119,4 @@ def look_in_dict(dep_parses,dictionary=None, sets=None,set_names=None):
 
         feature_dict[dep_objs[0].tweet_id] = features
     return feature_dict
+
