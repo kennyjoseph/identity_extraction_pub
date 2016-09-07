@@ -1,8 +1,23 @@
 # Introduction
 
-This is the public code repository for the paper submitted to WWW.
+This is the public code repository for the following article:
+```
+@inproceedings{joseph_exploring_2016,
+	title = {Exploring patterns of identity usage in tweets: a new problem, solution and case study},
+	shorttitle = {Exploring patterns of identity usage in tweets},
+	url = {http://dl.acm.org/citation.cfm?id=2883027},
+	urldate = {2016-06-22},
+	booktitle = {Proceedings of the 25th {International} {Conference} on {World} {Wide} {Web}},
+	publisher = {International World Wide Web Conferences Steering Committee},
+	author = {Joseph, Kenneth and Wei, Wei and Carley, Kathleen M.},
+	year = {2016},
+	pages = {401--412}
+}
+```
 
-The repository contains code and data necessary to reproduce results from the paper
+The repository contains code and data necessary to reproduce results from the paper - if you use this code, please cite the article!
+
+Also, note that the tools described here are now part of the [twitter_dm](https://github.com/kennyjoseph/twitter_dm) library, so that may be easier to use.
 
 
 # Requirements
